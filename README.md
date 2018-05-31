@@ -1,4 +1,9 @@
-# Simple booking list
+# Innovation Lab Booking list
+
+Create Your first booking in 3 simple steps:
+  1. Open ```labRequests.js``` and add your first entry!
+  2. Add line according to Your needs
+  3. Create Pull request
 
 You can choose from three areas:
  - A-ROUNDTABLE - The round table meeting area with 8 seats, Sharp SmartScreen 60'
