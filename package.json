@@ -1,10 +1,10 @@
 {
-    "name": "fullcalendar-webpack-example",
+    "name": "innovation-lab-booking",
     "version": "1.0.0",
     "description": "",
     "repository": {
       "type": "git",
-      "url": "https://github.com/fullcalendar/webpack-example.git"
+      "url": "https://github.com/innovation-lab-prague/booking.git"
     },
     "main": "dist/example.js",
     "dependencies": {
