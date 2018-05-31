@@ -6,7 +6,7 @@
       "type": "git",
       "url": "https://github.com/innovation-lab-prague/booking.git"
     },
-    "main": "dist/example.js",
+    "main": "dist/custom.js",
     "dependencies": {
       "fullcalendar": "^3.9.0",
       "jquery": "^3.3.1"
