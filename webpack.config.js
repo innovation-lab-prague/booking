@@ -1,7 +1,7 @@
 const path = require('path')
 
 module.exports = {
-  entry: './labRequests.js',
+  entry: './custom.js',
   output: {
     filename: './custom.js',
     path: path.join(__dirname, 'dist')
