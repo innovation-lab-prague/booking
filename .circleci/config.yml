@@ -30,4 +30,6 @@ jobs:
 
       - run: 
           name: Sync to S3 bucket
-          command: aws s3 sync $CIRCLE_WORKING_DIRECTORY/dist/ s3://innovation-lab.cz/dist/ --region eu-central-1
+          command: |
+            aws s3 sync $CIRCLE_WORKING_DIRECTORY/dist/ s3://innovation-lab.cz/dist/ --region eu-central-1
+            aws s3 sync $CIRCLE_WORKING_DIRECTORY/labRequests.js s3://innovation-lab.cz/src/ --region eu-central-1
