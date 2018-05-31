@@ -8,28 +8,13 @@ jobs:
       - checkout
 
       - run:
-          name: Clone repo from Inno-lab-web
-          command: git clone https://github.com/innovation-lab-prague/web-pages.git pages
-
-      - run:
-          name: Copy fullcalendar config file to the ./src folder
-          command: mv pages/src/custom.js .
-
-      - run:
           name: Install Python and AWS-CLI
           command: |
             sudo apt-get -y -qq update
             sudo apt-get install -y python-pip python-dev 
             sudo pip install awscli
 
-      - run:
-          name: Install Webpack + dependencies and run build
-          command: |
-            npm install 
-            npm run build
-
       - run: 
           name: Sync to S3 bucket
           command: |
-            aws s3 sync $CIRCLE_WORKING_DIRECTORY/dist/ s3://innovation-lab.cz/dist/ --region eu-central-1
             aws s3 cp $CIRCLE_WORKING_DIRECTORY/labRequests.js s3://innovation-lab.cz/src/labRequests.js --region eu-central-1
