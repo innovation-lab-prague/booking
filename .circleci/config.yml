@@ -1,0 +1,32 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: circleci/node:7.10
+    working_directory:  /home/circleci/innovation-lab-booking
+    steps:
+      - checkout
+
+      - run:
+          name: Install Python and AWS-CLI
+          command: |
+            sudo apt-get -y -qq update
+            sudo apt-get install -y python-pip python-dev 
+            sudo pip install awscli
+
+      - run:
+          name: Install Node + npm
+          command: |
+            npm -v
+            # sudo curl -sL https://deb.nodesource.com/setup_8.x | sudo -E bash -
+            # sudo apt-get install -y nodejs
+            npm install 
+            npm run build
+
+      - run:
+          name: Debug step
+          command: ls -al ./dist
+
+      # - run: 
+      #     name: Sync to S3 bucket
+      #     command: aws s3 sync $CIRCLE_WORKING_DIRECTORY/dist s3://innovation-lab.cz/dist --region eu-central-1
