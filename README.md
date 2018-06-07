@@ -1,7 +1,7 @@
 # Innovation Lab Booking list
 
 Create Your first booking in 3 simple steps:
-  1. Open ```labRequests.js``` and add your first entry!
+  1. Open ```labRequests.js```
   2. Add line according to Your needs
   3. Create Pull request
 
