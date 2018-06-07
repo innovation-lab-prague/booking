@@ -4,6 +4,11 @@ jobs:
     docker:
       - image: circleci/node:7.10
     working_directory:  /home/circleci/innovation-lab-booking
+    
+    branches: 
+      only: 
+        - master
+        
     steps:
       - checkout
 
