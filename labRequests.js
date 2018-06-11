@@ -7,6 +7,7 @@ var labEvents = [
   { title: 'Statistix Meeting',  start: '2018-06-07T15:00:00',  end: '2018-06-07T16:00:00', resourceId: 'C-MEETROOM'             },
   { title: 'React/Angular Review / Dirk K.',  start: '2018-06-08T14:00:00',  end: '2018-06-08T15:30:00', resourceId: 'C-MEETROOM'},
   { title: 'PRISMA GWT GUI Knowledge Transfer / Dirk K.',  start: '2018-06-11T14:00:00',  end: '2018-06-11T15:30:00', resourceId: 'A-ROUNDTABLE' },
+  { title: 'Risk IT Meetup / Adam N.',  start: '2018-06-11T13:00:00',  end: '2018-06-11T14:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Telco / Wolfgang E.',        start: '2018-06-11T14:30:00',  end: '2018-06-11T15:00:00', resourceId: 'C-MEETROOM'     },
   { title: 'POM Meeting/ Misa C.',       start: '2018-06-12T14:00:00',  end: '2018-06-11T15:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'FM Photoshoot / Ondrej H. ', start: '2018-06-13T09:00:00',  end: '2018-06-13T10:00:00', resourceId: 'B-LONGTABLE'    },
