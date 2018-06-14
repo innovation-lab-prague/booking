@@ -13,7 +13,8 @@ var labEvents = [
   { title: 'Meeting with ext. / Pavel T.', start: '2018-06-14T12:00:00',  end: '2018-06-14T18:00:00', resourceId: 'C-MEETROOM'    },
   { title: 'POM Meeting / Misa C.',      start: '2018-06-19T14:00:00',  end: '2018-06-19T15:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'M&M Farewell',               start: '2018-06-28T14:00:00',  end: '2018-06-28T18:00:00', resourceId: 'B-LONGTABLE'    }, 
+  { title: 'IT Infrasturcture Tools Team Workshop / Josef T.',  start: '2018-07-09T13:00:00',      end: '2018-07-11T16:00:00',  resourceId: 'A-ROUNDTABLE'     },
   { title: 'DifferenceClaimTool sprint end / Marek P.', start: '2018-07-17T10:00:00', end: '2018-07-17T17:00:00', resourceId: 'A-ROUNDTABLE'   },
   { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10',      end: '2018-10-12',          resourceId: 'C-MEETROOM'     }
-  { title: 'IT Infrasturcture Tools Team Workshop / Josef T.',  start: '2018-07-09T13:00:00',      end: '2018-07-11T16:00:00',  resourceId: 'C-MEETROOM'     }
+  
 ]
