@@ -15,6 +15,7 @@ var labEvents = [
   { title: 'M&M Farewell',               start: '2018-06-28T14:00:00',  end: '2018-06-28T18:00:00', resourceId: 'B-LONGTABLE'    }, 
   { title: 'IT Infrasturcture Tools Team Workshop / Josef T.',  start: '2018-07-09T13:00:00',      end: '2018-07-11T16:00:00',  resourceId: 'B-LONGTABLE' },
   { title: 'DifferenceClaimTool sprint end / Marek P.', start: '2018-07-17T10:00:00', end: '2018-07-17T17:00:00', resourceId: 'A-ROUNDTABLE'   },
+  { title: 'Risk IT Training / Dirk K.',  start: '2018-09-06', end: '2018-09-07', resourceId: 'B-LONGTABLE'},
   { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10',      end: '2018-10-12',          resourceId: 'C-MEETROOM'     }
   
 ]
