@@ -11,6 +11,7 @@ var labEvents = [
   { title: 'FM Photoshoot / Ondrej H. ', start: '2018-06-13T09:00:00',  end: '2018-06-13T10:00:00', resourceId: 'C-MEETROOM'     },
   { title: 'HR Welcome Days / Vera S. ', start: '2018-06-14T08:00:00',  end: '2018-06-14T12:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'Meeting with ext. / Pavel T.', start: '2018-06-14T12:00:00',  end: '2018-06-14T18:00:00', resourceId: 'C-MEETROOM'    },
+  { title: 'STX Meeting / Peter C.',      start: '2018-06-19T11:00:00',  end: '2018-06-19T12:00:00', resourceId: 'C-MEETROOM'    },
   { title: 'POM Meeting / Misa C.',      start: '2018-06-19T14:00:00',  end: '2018-06-19T15:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'M&M Farewell',               start: '2018-06-28T14:00:00',  end: '2018-06-28T18:00:00', resourceId: 'B-LONGTABLE'    }, 
   { title: 'IT Infrasturcture Tools Team Workshop / Josef T.',  start: '2018-07-09T13:00:00',      end: '2018-07-11T16:00:00',  resourceId: 'B-LONGTABLE' },
