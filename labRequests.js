@@ -19,6 +19,7 @@ var labEvents = [
   { title: 'StatistiX / Ondrej.S.',  start: '2018-06-19T11:00:00',  end: '2018-06-019T12:00:00',    resourceId: 'C-MEETROOM'     },
   { title: 'TKAMs / Sam B.',  start: '2018-06-20T14:00:00',      end: '2018-06-20T15:00:00',        resourceId: 'B-LONGTABLE'    },
   { title: 'TKAMs / Sam B.',  start: '2018-06-21T11:00:00',      end: '2018-06-21T12:00:00',        resourceId: 'B-LONGTABLE'    },
+  { title: 'Energy Meet / Blanka M.',  start: '2018-06-21T14:00:00',      end: '2018-06-21T15:00:00',  resourceId: 'C-MEETROOM'    },
   { title: 'Meet with CVUT rep. / Adela K.',  start: '2018-06-21T15:30:00',      end: '2018-06-21T16:00:00',  resourceId: 'C-MEETROOM'    },
   { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10',      end: '2018-10-12',          resourceId: 'C-MEETROOM'     }
 ]
