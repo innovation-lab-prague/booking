@@ -23,6 +23,7 @@ var labEvents = [
   { title: 'AMOR Dashboard discussion ',  start: '2018-06-21T15:00:00',  end: '2018-06-21T15:30:00',   resourceId: 'C-MEETROOM'    },
   { title: 'Meet with CVUT rep. / Adela K.',  start: '2018-06-21T15:30:00',  end: '2018-06-21T16:00:00',  resourceId: 'C-MEETROOM'    },
   { title: 'Workflow meet / Martin S.',  start: '2018-06-22T08:30:00',  end: '2018-06-22T09:00:00',  resourceId: 'C-MEETROOM'  },
-  { title: 'Opentext Enterprise scan / Pavel Truska.',  start: '2018-06-22T09:30:00',   end: '2018-06-22T15:30:00', resourceId: 'C-MEETROOM'     },
+  { title: 'Opentext Enterprise scan / Pavel T.',  start: '2018-06-22T09:30:00',   end: '2018-06-22T15:30:00', resourceId: 'C-MEETROOM'     },
+  { title: 'Tosca Robotics Exchange / Martin S.',  start: '2018-07-26T14:00:00',   end: '2018-07-26T16:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10',   end: '2018-10-12',          resourceId: 'C-MEETROOM'     }
 ]
