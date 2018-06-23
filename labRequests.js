@@ -25,5 +25,6 @@ var labEvents = [
   { title: 'Workflow meet / Martin S.',  start: '2018-06-22T08:30:00',  end: '2018-06-22T09:00:00',  resourceId: 'C-MEETROOM'  },
   { title: 'Opentext Enterprise scan / Pavel T.',  start: '2018-06-22T09:30:00',   end: '2018-06-22T15:30:00', resourceId: 'C-MEETROOM'     },
   { title: 'Tosca Robotics Exchange / Martin S.',  start: '2018-07-26T14:00:00',   end: '2018-07-26T16:00:00', resourceId: 'B-LONGTABLE'    },
-  { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10',   end: '2018-10-12',          resourceId: 'C-MEETROOM'     }
+  { title: 'HR SSC Prague Meeting / Hana M.',  start: '2018-08-16', end: '2018-08-16',      resourceId: 'B-LONGTABLE'    },
+  { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10', end: '2018-10-12',      resourceId: 'C-MEETROOM'     }
 ]
