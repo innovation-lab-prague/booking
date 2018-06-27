@@ -28,7 +28,6 @@ var labEvents = [
   { title: 'HR SSC Prague Meeting / Hana M.',  start: '2018-08-16', end: '2018-08-16',      resourceId: 'B-LONGTABLE'    },
   { title: 'Coodo Showcase / Anderson M.', start: '2018-06-26T14:00:00',  end: '2018-06-26T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10', end: '2018-10-12',                 resourceId: 'C-MEETROOM' },
-  { title: 'COP Docu/Func / Jana D.',  start: '2018-06-27T14:00:00', end: '2018-06-27T15:00:00',      resourceId: 'C-MEETROOM' },
   { title: 'STX mngm meeting / Ondrej S.',  start: '2018-06-26T10:30:00', end: '2018-06-26T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'EDT Workshop / Martin S.', start: '2018-07-11T09:00:00', end: '2018-07-14',               resourceId: 'C-MEETROOM' }
 ]
