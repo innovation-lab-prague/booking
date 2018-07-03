@@ -30,5 +30,6 @@ var labEvents = [
   { title: 'STX mngm meeting / Ondrej S.',  start: '2018-06-26T10:30:00', end: '2018-06-26T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Clearstream meeting / Michaela C.',  start: '2018-06-26T14:30:00', end: '2018-06-26T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'EDT Workshop / Martin S.', start: '2018-07-11T09:00:00', end: '2018-07-14',               resourceId: 'C-MEETROOM' },
+  { title: 'New meeting / Stan S.', start: '2018-11-23T09:00:00', end: '2018-11-24T15:00:00',         resourceId: 'C-MEETROOM' },
   { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10', end: '2018-10-12',                 resourceId: 'C-MEETROOM' }
 ]
