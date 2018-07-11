@@ -27,6 +27,7 @@ var labEvents = [
   { title: 'IT Infrastructure Tools Team Workshop / Josef T.',  start: '2018-07-09T13:00:00', end: '2018-07-10T17:00:00',  resourceId: 'B-LONGTABLE' },
   { title: 'IT Infrastructure Tools Team Workshop / Josef T.',  start: '2018-07-11T09:00:00', end: '2018-07-11T16:00:00',  resourceId: 'C-MEETROOM' },
   { title: 'EDT Workshop / Martin S.', start: '2018-07-11', end: '2018-07-14',   resourceId: 'B-LONGTABLE' },
+  { title: 'FAR tool sprint planning / Anderson M.',  start: '2018-07-12T14:30:00', end: '2018-07-12T16:00:00',  resourceId: 'C-MEETROOM' },
   { title: 'DifferenceClaimTool sprint end / Marek P.', start: '2018-07-17T10:00:00', end: '2018-07-17T17:00:00', resourceId: 'A-ROUNDTABLE'   },
   { title: 'Tosca Robotics Exchange / Martin S.',  start: '2018-07-26T14:00:00',   end: '2018-07-26T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'HR SSC Prague Meeting / Hana M.',  start: '2018-08-16', end: '2018-08-16',    resourceId: 'B-LONGTABLE'    },
