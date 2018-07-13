@@ -31,9 +31,9 @@ var labEvents = [
   { title: 'DifferenceClaimTool sprint end / Marek P.', start: '2018-07-17T10:00:00', end: '2018-07-17T17:00:00', resourceId: 'A-ROUNDTABLE'   },
   { title: 'Innovation lab talk / Marek H.',  start: '2018-07-25T14:00:00', end: '2018-07-25T16:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'Tosca Robotics Exchange / Martin S.',  start: '2018-07-26T14:00:00',   end: '2018-07-26T16:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Stoxx OpCo. / Stephanie K.',  start: '2018-08-14', end: '2018-08-16',         resourceId: 'B-LONGTABLE'    },
   { title: 'HR SSC Prague Meeting / Hana M.',  start: '2018-08-16', end: '2018-08-16',    resourceId: 'B-LONGTABLE'    },
-  { title: 'Risk IT Training / Dirk K.',  start: '2018-09-06', end: '2018-09-08',         resourceId: 'B-LONGTABLE'},
+  { title: 'Stoxx OpCo. / Stephanie K.',  start: '2018-09-04', end: '2018-09-06',         resourceId: 'B-LONGTABLE'    },
+  { title: 'Risk IT M$ Training / Dirk K.',  start: '2018-09-06', end: '2018-09-08',      resourceId: 'B-LONGTABLE'},
   { title: 'COP Offsite Meeting / Armin B.',  start: '2018-10-10', end: '2018-10-12',     resourceId: 'C-MEETROOM' },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' }
 ]
