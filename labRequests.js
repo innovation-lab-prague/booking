@@ -32,6 +32,7 @@ var labEvents = [
   { title: 'F5 Workshop / Gabor B.',  start: '2018-07-18', end: '2018-07-20',  resourceId: 'C-MEETROOM' },
   { title: 'FAR Q&A Session on Business requirements / Anderson M.',  start: '2018-07-25T14:00:00', end: '2018-07-25T16:30:00', resourceId: 'C-MEETROOM'},
   { title: 'Innovation lab talk / Marek H.',  start: '2018-07-25T14:00:00', end: '2018-07-25T16:30:00', resourceId: 'B-LONGTABLE'},
+  { title: 'FAR Sprint Planning / Anderson M.', start: '2018-07-26T11:00:00', end: '2018-07-26T13:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Tosca Robotics Exchange / Martin S.',  start: '2018-07-26T14:00:00',   end: '2018-07-26T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Prg meets Lux / Zuzana V.',  start: '2018-08-06T14:00:00', end: '2018-08-06T18:00:00',    resourceId: 'A-ROUNDTABLE'    },
   { title: 'Prg meets Lux / Zuzana V.',  start: '2018-08-07T14:00:00', end: '2018-08-07T18:00:00',    resourceId: 'A-ROUNDTABLE'    },
