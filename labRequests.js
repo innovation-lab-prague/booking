@@ -33,7 +33,7 @@ var labEvents = [
   { title: 'FAR Q&A Session on Business requirements / Anderson M.',  start: '2018-07-25T14:00:00', end: '2018-07-25T16:30:00', resourceId: 'C-MEETROOM'},
   { title: 'FAR Sprint Planning / Anderson M.', start: '2018-07-26T11:00:00', end: '2018-07-26T13:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Tosca Robotics Exchange / Martin S.',  start: '2018-07-26T14:00:00',   end: '2018-07-26T16:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'HR Meeting / Hana M.',       start: '2018-07-31T15:00:00', end: '2018-07-31T17:00:00',    resourceId: 'C-MEETROOM'     },
+  { title: 'HR Meeting / Hana M.',       start: '2018-07-30T15:00:00', end: '2018-07-30T17:00:00',    resourceId: 'C-MEETROOM'     },
   { title: 'Innovation lab talk / Marek H.',  start: '2018-08-01T15:00:00', end: '2018-08-01T16:30:00',   resourceId: 'B-LONGTABLE'},
   { title: 'Labor Union Meeting / Pavel R.',  start: '2018-08-02T14:30:00', end: '2018-08-02T16:00:00',   resourceId: 'B-LONGTABLE'    },
   { title: 'Opentext Workshop-SAP / Pavel T.',   start: '2018-08-01', end: '2018-08-03',    resourceId: 'C-MEETROOM'     },
