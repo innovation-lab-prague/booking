@@ -44,6 +44,7 @@ var labEvents = [
   { title: 'HR SSC Prague Meeting / Hana M.',  start: '2018-08-16', end: '2018-08-16',    resourceId: 'B-LONGTABLE'    },
   { title: 'Stoxx OpCo. / Stephanie K.',       start: '2018-08-29', end: '2018-08-31',    resourceId: 'B-LONGTABLE'    },
   { title: 'Risk IT MS Training / Dirk K.',    start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
+  { title: 'Toastmasters Demo Session / Dirk K.',    start: '2018-09-11T17:00:00', end: '2018-09-11T20:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-10', end: '2018-10-12',    resourceId: 'C-MEETROOM'     },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' }
 ]
