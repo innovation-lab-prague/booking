@@ -41,6 +41,7 @@ var labEvents = [
   { title: 'Opentext Workshop-SAP / Pavel T.',   start: '2018-08-01', end: '2018-08-03',    resourceId: 'C-MEETROOM'     },
   { title: 'Prg meets Lux / Zuzana V.',  start: '2018-08-06T14:00:00', end: '2018-08-06T18:00:00',    resourceId: 'A-ROUNDTABLE'    },
   { title: 'Prg meets Lux / Zuzana V.',  start: '2018-08-07T14:00:00', end: '2018-08-07T18:00:00',    resourceId: 'A-ROUNDTABLE'    },
+  { title: 'Energy meet / Pavel P.',  start: '2018-08-07T16:00:00', end: '2018-08-07T18:00:00',    resourceId: 'C-MEETROOM'    },
   { title: 'Prg meets Lux / Zuzana V.',  start: '2018-08-08T14:00:00', end: '2018-08-08T18:00:00',    resourceId: 'A-ROUNDTABLE'     },
   { title: 'HR SSC Prague Meeting / Hana M.',  start: '2018-08-16', end: '2018-08-16',    resourceId: 'B-LONGTABLE'    },
   { title: 'Stoxx OpCo. / Stephanie K.',       start: '2018-08-29', end: '2018-08-31',    resourceId: 'B-LONGTABLE'    },
