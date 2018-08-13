@@ -45,6 +45,7 @@ var labEvents = [
   { title: 'Prg meets Lux / Zuzana V.',  start: '2018-08-08T14:00:00', end: '2018-08-08T18:00:00',    resourceId: 'A-ROUNDTABLE'     },
   { title: 'HR SSC Prague Meeting / Hana M.',  start: '2018-08-16', end: '2018-08-16',    resourceId: 'B-LONGTABLE'    },
   { title: 'IFS QAs get together / Peter G.', start: '2018-08-17T15:00:00', end: '2018-08-17T15:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'Energy COP Documentation/Functional / Jana D.', start: '2018-08-22T14:00:00', end: '2018-08-22T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Stoxx OpCo. / Stephanie K.',       start: '2018-08-29', end: '2018-08-31',    resourceId: 'B-LONGTABLE'    },
   { title: 'IFS QAs get together / Peter G.', start: '2018-08-31T15:00:00', end: '2018-08-31T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Risk IT MS Training / Dirk K.',    start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
