@@ -51,6 +51,7 @@ var labEvents = [
   { title: 'Risk IT MS Training / Dirk K.',    start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
   { title: 'Toastmasters Demo Session / Dirk K.',    start: '2018-09-11T17:00:00', end: '2018-09-11T20:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'IFS QAs get together / Peter G.', start: '2018-09-14T15:00:00', end: '2018-09-14T15:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'MNG OPS Meeting / Michaela C.', start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Tosca Robotics Exchange / Martin S.',    start: '2018-09-27T14:00:00', end: '2018-09-27T16:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-11', end: '2018-10-13',    resourceId: 'C-MEETROOM'     },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' }
