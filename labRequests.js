@@ -56,5 +56,6 @@ var labEvents = [
   { title: 'MNG OPS Meeting / Michaela C.', start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Tosca Robotics Exchange / Martin S.',    start: '2018-09-27T14:00:00', end: '2018-09-27T16:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-11', end: '2018-10-13',    resourceId: 'C-MEETROOM'     },
-  { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' }
+  { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
+  { title: 'Labor Union Meeting / Adam R.',  start: '2018-08-23T16:00:00', end: '2018-08-23T17:30:00',   resourceId: 'B-LONGTABLE'    }
 ]
