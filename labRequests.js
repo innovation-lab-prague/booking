@@ -46,16 +46,17 @@ var labEvents = [
   { title: 'HR SSC Prague Meeting / Hana M.',  start: '2018-08-15', end: '2018-08-15',    resourceId: 'B-LONGTABLE'    },
   { title: 'IFS QAs get together / Peter G.', start: '2018-08-17T15:00:00', end: '2018-08-17T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'FAR - Daily / Anderson M.', start: '2018-08-21T10:30:00', end: '2018-08-21T11:30:00', resourceId: 'C-MEETROOM' },
-  { title: 'Mgmt Office Meet / Renata D.', start: '2018-08-23T10:00:00', end: '2018-08-23T12:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Energy COP Documentation/Functional / Jana D.', start: '2018-08-22T14:00:00', end: '2018-08-22T15:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Mgmt Office Meet / Renata D.', start: '2018-08-23T10:00:00', end: '2018-08-23T12:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'Labor Union Meeting / Adam R.',  start: '2018-08-23T16:00:00', end: '2018-08-23T17:30:00',   resourceId: 'B-LONGTABLE'    },
   { title: 'Stoxx OpCo. / Stephanie K.',       start: '2018-08-29', end: '2018-08-31',    resourceId: 'B-LONGTABLE'    },
   { title: 'IFS QAs get together / Peter G.', start: '2018-08-31T15:00:00', end: '2018-08-31T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Risk IT MS Training / Dirk K.',    start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
+  { title: 'Q&A session about talent programmes  / Adela P.',    start: '2018-09-10T14:00:00', end: '2018-09-10T15:00:00',    resourceId: 'B-LONGTABLE'  },
   { title: 'Toastmasters Demo Session / Dirk K.',    start: '2018-09-11T17:00:00', end: '2018-09-11T20:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'IFS QAs get together / Peter G.', start: '2018-09-14T15:00:00', end: '2018-09-14T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'MNG OPS Meeting / Michaela C.', start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Tosca Robotics Exchange / Martin S.',    start: '2018-09-27T14:00:00', end: '2018-09-27T16:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-11', end: '2018-10-13',    resourceId: 'C-MEETROOM'     },
-  { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
-  { title: 'Labor Union Meeting / Adam R.',  start: '2018-08-23T16:00:00', end: '2018-08-23T17:30:00',   resourceId: 'B-LONGTABLE'    }
+  { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' }
 ]
