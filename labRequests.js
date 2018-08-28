@@ -53,6 +53,7 @@ var labEvents = [
   { title: 'Stoxx OpCo. / Stephanie K.',      start: '2018-08-29', end: '2018-08-31',    resourceId: 'B-LONGTABLE'    },
   { title: 'Facility Booking / Ondrej H.',    start: '2018-08-29T09:00:00', end: '2018-08-29T09:30:00',    resourceId: 'C-MEETROOM'    },
   { title: 'IFS QAs get together / Peter G.', start: '2018-08-31T15:00:00', end: '2018-08-31T15:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'Markdown / Asciidoctor / Petr S.',   start: '2018-09-05T15:00:00', end: '2018-09-05T16:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'Risk IT MS Training / Dirk K.',   start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
   { title: 'StatistiX Weekly / Ondrej S.',  start: '2018-09-05T14:00:00', end: '2018-09-05T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Q&A session about talent programmes  / Adela P.',    start: '2018-09-10T14:00:00', end: '2018-09-10T15:00:00',    resourceId: 'B-LONGTABLE'  },
@@ -62,7 +63,7 @@ var labEvents = [
   { title: 'MNG OPS Meeting / Michaela C.', start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Tosca Robotics Exchange / Martin S.',    start: '2018-09-27T14:00:00', end: '2018-09-27T16:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'Core Business Training / Armin B.',   start: '2018-10-01', end: '2018-10-04',    resourceId: 'B-LONGTABLE'     },
+  { title: 'ECB T2S Meeting / Misa C.',  start: '2018-10-09', end: '2018-10-11',     resourceId: 'B-LONGTABLE' },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-11', end: '2018-10-13',    resourceId: 'C-MEETROOM'     },
-  { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
-  { title: 'ECB T2S Meeting / Misa C.',  start: '2018-10-09', end: '2018-10-11',     resourceId: 'B-LONGTABLE' }
+  { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' }
 ]
