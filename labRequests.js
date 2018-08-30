@@ -52,6 +52,7 @@ var labEvents = [
   { title: 'COP Meeting / Adam R.',  start: '2018-08-24T10:30:00', end: '2018-08-24T12:00:00',   resourceId: 'C-MEETROOM'    },
   { title: 'Stoxx OpCo. / Stephanie K.',      start: '2018-08-29', end: '2018-08-31',    resourceId: 'B-LONGTABLE'    },
   { title: 'Facility Booking / Ondrej H.',    start: '2018-08-29T09:00:00', end: '2018-08-29T09:30:00',    resourceId: 'C-MEETROOM'    },
+  { title: 'Copr. Tools Meeting / Michal P.', start: '2018-08-30T11:30:00', end: '2018-08-30T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'IFS QAs get together / Peter G.', start: '2018-08-31T15:00:00', end: '2018-08-31T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Markdown / Asciidoctor / Petr S.',   start: '2018-09-05T15:00:00', end: '2018-09-05T16:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'Risk IT MS Training / Dirk K.',   start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
