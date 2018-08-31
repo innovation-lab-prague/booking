@@ -66,6 +66,7 @@ var labEvents = [
   { title: 'Tosca Robotics Exchange / Martin S.',    start: '2018-09-27T14:00:00', end: '2018-09-27T16:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'Core Business Training / Armin B.',   start: '2018-10-01', end: '2018-10-04',    resourceId: 'B-LONGTABLE'     },
   { title: 'ECB T2S Meeting / Misa C.',  start: '2018-10-09', end: '2018-10-11',     resourceId: 'B-LONGTABLE' },
+  { title: 'Meeting s Ondrou / Standa S.',  start: '2018-10-10T10:00:00', end: '2018-10-10T11:00:00',     resourceId: 'B-LONGTABLE' },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-11', end: '2018-10-13',    resourceId: 'C-MEETROOM'     },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' }  
 ]
