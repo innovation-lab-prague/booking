@@ -55,6 +55,7 @@ var labEvents = [
   { title: 'Copr. Tools Meeting / Michal P.', start: '2018-08-30T11:30:00', end: '2018-08-30T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'IFS QAs get together / Peter G.', start: '2018-08-31T15:00:00', end: '2018-08-31T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Markdown / Asciidoctor / Petr S.',   start: '2018-09-05T15:00:00', end: '2018-09-05T16:00:00',    resourceId: 'B-LONGTABLE'    },
+  { title: 'Markdown use in Energy team / Pavel P.',   start: '2018-09-05T16:00:00', end: '2018-09-05T16:30:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'Risk IT MS Training / Dirk K.',   start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
   { title: 'StatistiX Weekly / Ondrej S.',  start: '2018-09-05T14:00:00', end: '2018-09-05T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'MarketPride Meetup / Lucia K.',  start: '2018-09-05T16:30:00', end: '2018-09-05T19:00:00',     resourceId: 'B-LONGTABLE' },
