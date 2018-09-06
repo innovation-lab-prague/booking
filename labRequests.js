@@ -59,6 +59,7 @@ var labEvents = [
   { title: 'Risk IT MS Training / Dirk K.',   start: '2018-09-06', end: '2018-09-08',    resourceId: 'B-LONGTABLE'    },
   { title: 'StatistiX Weekly / Ondrej S.',  start: '2018-09-05T14:00:00', end: '2018-09-05T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'MarketPride Meetup / Lucia K.',  start: '2018-09-05T16:30:00', end: '2018-09-05T19:00:00',     resourceId: 'B-LONGTABLE' },
+  { title: 'FAR Tool - Daily meeting / Anderson M.', start: '2018-09-06T10:30:00', end: '2018-09-06T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Q&A session about talent programmes  / Adela P.',    start: '2018-09-10T14:00:00', end: '2018-09-10T15:00:00',    resourceId: 'B-LONGTABLE'  },
   { title: 'Toastmasters Demo Session / Dirk K.',    start: '2018-09-11T17:00:00', end: '2018-09-11T20:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'StatistiX Weekly / Ondrej S.',  start: '2018-09-12T14:00:00', end: '2018-09-12T15:00:00',     resourceId: 'C-MEETROOM' },
