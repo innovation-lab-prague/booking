@@ -73,6 +73,7 @@ var labEvents = [
   { title: 'Welcome Day / Misa C. HR', start: '2018-10-08T08:00:00', end: '2018-10-08T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'ECB T2S Meeting / Misa C.',  start: '2018-10-09', end: '2018-10-11',     resourceId: 'B-LONGTABLE' },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-11', end: '2018-10-13',    resourceId: 'C-MEETROOM'     },
+  { title: 'Welcome Day / Misa C. HR', start: '2018-11-07T08:00:00', end: '2018-11-07T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-06T16:00:00', end: '2018-09-06T17:30:00',   resourceId: 'C-MEETROOM' }
 ]
