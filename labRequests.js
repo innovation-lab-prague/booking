@@ -68,6 +68,7 @@ var labEvents = [
   { title: 'IFS QAs get together / Peter G.', start: '2018-09-14T15:00:00', end: '2018-09-14T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'MNG OPS Meeting / Michaela C.', start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'StatistiX Info / Ondrej S.',  start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00',     resourceId: 'C-MEETROOM' },
+  { title: 'Weekly StatistiX / Ondrej S.',  start: '2018-09-26T14:00:00', end: '2018-09-26T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Tosca Robotics Exchange / Martin S.',    start: '2018-09-27T14:00:00', end: '2018-09-27T16:00:00',    resourceId: 'B-LONGTABLE'    },
   { title: 'Core Business Training / Armin B.',   start: '2018-10-01', end: '2018-10-04',    resourceId: 'B-LONGTABLE'     },
   { title: 'Welcome Day / Misa C. HR', start: '2018-10-08T08:00:00', end: '2018-10-08T15:00:00', resourceId: 'B-LONGTABLE' },
