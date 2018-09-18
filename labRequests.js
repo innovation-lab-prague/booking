@@ -81,5 +81,6 @@ var labEvents = [
   { title: 'STOXX OpCo offsite meeting / Stephanie K.', start: '2018-10-11', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Day / Misa C. HR', start: '2018-11-07T08:00:00', end: '2018-11-07T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
-  { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-06T16:00:00', end: '2018-09-06T17:30:00',   resourceId: 'C-MEETROOM' }
+  { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-06T16:00:00', end: '2018-09-06T17:30:00',   resourceId: 'C-MEETROOM' },
+  { title: '10th COP Anniversary / Misa C.', start: '2018-11-22T13:00:00', end: '2018-11-22T20:00:00', resourceId: 'B-LONGTABLE' },
 ]
