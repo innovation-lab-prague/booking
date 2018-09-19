@@ -67,7 +67,6 @@ var labEvents = [
   { title: 'FAR Tool - Daily meeting / Anderson M.', start: '2018-09-13T10:30:00', end: '2018-09-13T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'IFS QAs get together / Peter G.', start: '2018-09-14T15:00:00', end: '2018-09-14T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'MNG OPS Meeting / Michaela C.', start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'StatistiX Info / Ondrej S.',  start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Cooperation with VSE / Adela K.',  start: '2018-09-20T09:00:00', end: '2018-09-20T11:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Club Officer Meeting / Dirk K.',  start: '2018-09-20T13:30:00', end: '2018-09-20T14:30:00',     resourceId: 'A-ROUNDTABLE' },
   { title: 'Weekly StatistiX / Ondrej S.',  start: '2018-09-26T14:00:00', end: '2018-09-26T15:00:00',     resourceId: 'C-MEETROOM' },
