@@ -78,7 +78,11 @@ var labEvents = [
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-11', end: '2018-10-13',    resourceId: 'C-MEETROOM'     },
   { title: 'STOXX OpCo offsite meeting / Stephanie K.', start: '2018-10-10', resourceId: 'C-MEETROOM' },
   { title: 'STOXX OpCo offsite meeting / Stephanie K.', start: '2018-10-11', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-10-18T16:00:00', end: '2018-10-18T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-01T16:00:00', end: '2018-11-01T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Day / Misa C. HR', start: '2018-11-07T08:00:00', end: '2018-11-07T15:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-15T16:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-29T16:00:00', end: '2018-11-29T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-06T16:00:00', end: '2018-09-06T17:30:00',   resourceId: 'C-MEETROOM' },
   { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-20T16:00:00', end: '2018-09-20T17:30:00',   resourceId: 'B-LONGTABLE' }
