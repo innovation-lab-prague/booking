@@ -67,7 +67,6 @@ var labEvents = [
   { title: 'FAR Tool - Daily meeting / Anderson M.', start: '2018-09-13T10:30:00', end: '2018-09-13T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'IFS QAs get together / Peter G.', start: '2018-09-14T15:00:00', end: '2018-09-14T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'MNG OPS Meeting / Michaela C.', start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'StatistiX Info / Ondrej S.',  start: '2018-09-19T14:00:00', end: '2018-09-19T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Cooperation with VSE / Adela K.',  start: '2018-09-20T09:00:00', end: '2018-09-20T11:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Club Officer Meeting / Dirk K.',  start: '2018-09-20T13:30:00', end: '2018-09-20T14:30:00',     resourceId: 'A-ROUNDTABLE' },
   { title: 'Weekly StatistiX / Ondrej S.',  start: '2018-09-26T14:00:00', end: '2018-09-26T15:00:00',     resourceId: 'C-MEETROOM' },
@@ -82,5 +81,6 @@ var labEvents = [
   { title: 'Welcome Day / Misa C. HR', start: '2018-11-07T08:00:00', end: '2018-11-07T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-06T16:00:00', end: '2018-09-06T17:30:00',   resourceId: 'C-MEETROOM' },
+  { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-20T16:00:00', end: '2018-09-20T17:30:00',   resourceId: 'B-LONGTABLE' },  
   { title: '10th COP Anniversary / Misa C.', start: '2018-11-22T13:00:00', end: '2018-11-22T20:00:00', resourceId: 'B-LONGTABLE' }
 ]
