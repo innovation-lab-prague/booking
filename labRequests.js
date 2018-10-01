@@ -88,5 +88,6 @@ var labEvents = [
   { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-06T16:00:00', end: '2018-09-06T17:30:00',   resourceId: 'C-MEETROOM' },
   { title: 'Labor Union Meeting / Adam R.',  start: '2018-09-20T16:00:00', end: '2018-09-20T17:30:00',   resourceId: 'B-LONGTABLE' },
   { title: 'SRE GFF vs Google',  start: '2018-09-25T09:30:00', end: '2018-09-25T12:30:00',   resourceId: 'C-MEETROOM' },
+  { title: 'eListing Architecture Review / Jan K.',  start: '2018-10-02T10:00:00', end: '2018-10-02T13:00:00',   resourceId: 'C-MEETROOM' },
   { title: '10th COP Anniversary / Misa C.', start: '2018-11-22T13:00:00', end: '2018-11-22T20:00:00', resourceId: 'B-LONGTABLE' }
 ]
