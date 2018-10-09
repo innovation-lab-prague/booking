@@ -80,6 +80,7 @@ var labEvents = [
   { title: 'MEGA Status meeting / Michal P.', start: '2018-10-05T14:00:00', end: '2018-10-05T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Welcome Day / Misa C. HR', start: '2018-10-08T08:00:00', end: '2018-10-08T15:00:00', resourceId: 'B-LONGTABLE' },
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-10-09T10:00:00', end: '2018-10-09T10:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'Team meeting / Martina D.', start: '2018-10-09T15:15:00', end: '2018-10-09T16:15:00', resourceId: 'B-LONGTABLE' },
   { title: 'ECB T2S Meeting / Misa C.',  start: '2018-10-09', end: '2018-10-11',     resourceId: 'B-LONGTABLE' },
   { title: 'COP Offsite Meeting / Armin B.',   start: '2018-10-11', end: '2018-10-13',    resourceId: 'C-MEETROOM'     },
   { title: 'STOXX OpCo offsite meeting / Stephanie K.', start: '2018-10-11', resourceId: 'B-LONGTABLE' },
