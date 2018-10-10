@@ -90,6 +90,7 @@ var labEvents = [
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-10-18T16:00:00', end: '2018-10-18T17:00:00', resourceId: 'B-LONGTABLE' },
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-10-23T10:00:00', end: '2018-10-23T10:30:00', resourceId: 'C-MEETROOM' },
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-10-25T10:00:00', end: '2018-10-25T10:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'T-REX Meeting / Martin S.', start: '2018-10-25T14:00:00', end: '2018-10-25T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Asset Servicing Townhall / Ales P.', start: '2018-10-29T14:00:00', end: '2018-10-19T15:00:00', resourceId: 'B-LONGTABLE' },
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-10-30T10:00:00', end: '2018-10-30T10:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Windows 10 Training / Aurelie P.', start: '2018-10-30T09:00:00', end: '2018-10-30T17:00:00', resourceId: 'B-LONGTABLE' },
