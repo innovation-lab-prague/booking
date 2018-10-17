@@ -87,7 +87,6 @@ var labEvents = [
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-10-16T10:00:00', end: '2018-10-16T10:30:00', resourceId: 'C-MEETROOM' },
   { title: 'DBDC Meeting / Stan S.', start: '2018-10-16T12:30:00', end: '2018-10-16T13:30:00', resourceId: 'C-MEETROOM' },
   { title: 'IBM Cloud / Stan S.',  start: '2018-10-17T10:30:00', end: '2018-10-17T16:30:00',     resourceId: 'C-MEETROOM' },
-  { title: 'StatistiX Comm rescheduled / Ondrej S.',  start: '2018-10-17T14:00:00', end: '2018-10-17T15:00:00',     resourceId: 'C-MEETROOM' },
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-10-18T10:00:00', end: '2018-10-18T10:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-10-18T16:00:00', end: '2018-10-18T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Clarity presentation workshop / Michal P.', start: '2018-10-23T09:00:00', end: '2018-10-23T12:00:00', resourceId: 'C-MEETROOM' },
