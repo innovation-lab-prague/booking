@@ -92,6 +92,7 @@ var labEvents = [
   { title: 'Clarity presentation workshop / Michal P.', start: '2018-10-23T09:00:00', end: '2018-10-23T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Energy meeting / Marek F.', start: '2018-10-23T13:00:00', end: '2018-10-23T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Agile Community of Practice / Ondrej V.', start: '2018-10-23T15:00:00', end: '2018-10-23T16:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Clearing meeting / Michal P.', start: '2018-10-24T13:00:00', end: '2018-10-24T15:00:00', resourceId: 'C-MEETROOM' },
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-10-25T10:00:00', end: '2018-10-25T10:30:00', resourceId: 'C-MEETROOM' },
   { title: 'T-REX Meeting / Martin S.', start: '2018-11-01T14:00:00', end: '2018-11-01T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Asset Servicing Townhall / Ales P.', start: '2018-10-29T14:00:00', end: '2018-10-29T15:00:00', resourceId: 'B-LONGTABLE' },
