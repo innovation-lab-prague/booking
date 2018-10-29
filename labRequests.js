@@ -97,6 +97,7 @@ var labEvents = [
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-10-25T10:00:00', end: '2018-10-25T10:30:00', resourceId: 'C-MEETROOM' },
   { title: 'T-REX Meeting / Martin S.', start: '2018-11-01T14:00:00', end: '2018-11-01T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Asset Servicing Townhall / Ales P.', start: '2018-10-29T14:00:00', end: '2018-10-29T16:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Energy meeting  / Marek F.', start: '2018-10-29T14:00:00', end: '2018-10-29T16:00:00', resourceId: 'C-MEETROOM' },  
   { title: 'Coffee with Christoph Boehm / Klara O.', start: '2018-10-30T09:00:00', end: '2018-10-30T13:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Scrum Community of Practice / Ondrej V.',  start: '2018-10-30T15:00:00', end: '2018-10-30T16:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Weekly StatistiX / Ondrej S.',  start: '2018-10-31T14:00:00', end: '2018-10-31T15:00:00',     resourceId: 'C-MEETROOM' },
