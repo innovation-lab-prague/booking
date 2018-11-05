@@ -105,6 +105,7 @@ var labEvents = [
   { id: 999, title: 'MEGA Status meeting / Michal P.', start: '2018-11-01T10:00:00', end: '2018-11-01T10:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-01T16:00:00', end: '2018-11-01T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'HR Meet / Hana M.', start: '2018-11-02T11:00:00', end: '2018-11-01T13:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'XBID Product Backlog Refinement / Marek F.', start: '2018-11-05T14:00:00', end: '2018-11-05T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Diversity in real life, Wenche Fredriksen / Veronika T.', start: '2018-11-07T09:00:00', end: '2018-11-07T10:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Day / HR', start: '2018-11-07T10:30:00', end: '2018-11-07T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'XBID Sprint review/planning / Marek F.', start: '2018-11-08T10:00:00', end: '2018-11-08T12:00:00', resourceId: 'B-LONGTABLE' },
