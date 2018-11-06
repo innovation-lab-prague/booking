@@ -111,6 +111,7 @@ var labEvents = [
   { title: 'Agile Community of Practice / Ondrej V.', start: '2018-11-06T15:00:00', end: '2018-11-06T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Welcome Day / HR', start: '2018-11-07T10:30:00', end: '2018-11-07T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'XBID Sprint review/planning / Marek F.', start: '2018-11-08T10:00:00', end: '2018-11-08T12:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Weekly StatistiX / Ondrej S.',  start: '2018-11-07T14:00:00', end: '2018-11-07T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'XBID Overall Retrospective / Marek F.', start: '2018-11-08T15:00:00', end: '2018-11-08T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'CorpSys / Lars B.', start: '2018-11-08T15:00:00', end: '2018-11-08T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Intercultural comm. between Eschborn/Prague and Singapore / Frank J.', start: '2018-11-06T09:00:00', end: '2018-11-06T17:00:00', resourceId: 'B-LONGTABLE' },
