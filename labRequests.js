@@ -116,6 +116,7 @@ var labEvents = [
   { title: 'CorpSys / Lars B.', start: '2018-11-08T15:00:00', end: '2018-11-08T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Intercultural comm. between Eschborn/Prague and Singapore / Frank J.', start: '2018-11-06T09:00:00', end: '2018-11-06T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Recruitment DBS / Tom W.',  start: '2018-11-13T09:30:00', end: '2018-11-13T10:30:00',     resourceId: 'C-MEETROOM' },
+  { title: 'RDS Intr discussion for new joiners',    start: '2018-11-12T10:00:00',  end: '2018-11-12T11:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'COP Meeting / Blanka M.',    start: '2018-11-15T15:00:00',  end: '2018-11-15T16:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Intercultural comm. between Eschborn/Prague and Singapore / Frank J.', start: '2018-11-15T09:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-15T16:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
@@ -128,6 +129,7 @@ var labEvents = [
   { title: 'Townhall Meeting / Misa C.',  start: '2018-12-05', end: '2018-12-05',     resourceId: 'B-LONGTABLE' },
   { title: 'Townhall Meeting / Misa C.',  start: '2018-12-05', end: '2018-12-05',     resourceId: 'C-MEETROOM' },
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
+  { title: 'HR Innovation Meet-Up / Tom W.',  start: '2018-12-06T15:00:00', end: '2018-12-06T17:00:00',     resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-12-13T16:00:00', end: '2018-12-13T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' }
 ]
