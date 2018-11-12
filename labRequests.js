@@ -115,7 +115,7 @@ var labEvents = [
   { title: 'EDT 4.0 / WSS-EDT', start: '2018-11-08T09:00:00', end: '2018-11-08T10:00:00', resourceId: 'C-MEETROOM' }, 
   { title: 'CorpSys / Lars B.', start: '2018-11-08T15:00:00', end: '2018-11-08T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Intercultural comm. between Eschborn/Prague and Singapore / Frank J.', start: '2018-11-06T09:00:00', end: '2018-11-06T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Recruitment DBS / Tom W.',  start: '2018-11-13T09:30:00', end: '2018-11-13T10:30:00',     resourceId: 'C-MEETROOM' },
+  { title: 'Recruitment DBS / Tom W.',  start: '2018-11-13T09:00:00', end: '2018-11-13T10:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'RDS Intr discussion for new joiners',    start: '2018-11-12T10:00:00',  end: '2018-11-12T11:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'COP Meeting / Blanka M.',    start: '2018-11-15T15:00:00',  end: '2018-11-15T16:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Intercultural comm. between Eschborn/Prague and Singapore / Frank J.', start: '2018-11-15T09:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
