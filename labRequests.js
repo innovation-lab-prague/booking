@@ -119,6 +119,8 @@ var labEvents = [
   { title: 'Intercultural comm. between Eschborn/Prague and Singapore / Frank J.', start: '2018-11-06T09:00:00', end: '2018-11-06T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Recruitment DBS / Tom W.',  start: '2018-11-13T09:00:00', end: '2018-11-13T10:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'RDS Intr discussion for new joiners',    start: '2018-11-12T10:00:00',  end: '2018-11-12T11:30:00', resourceId: 'C-MEETROOM'   },
+  { title: 'Knowledge Session - Prague Core Team / Magdalena M.',    start: '2018-11-14T14:00:00',  end: '2018-11-14T17:00:00', resourceId: 'C-MEETROOM'   },
+  { title: 'Knowledge Session - Prague Core Team / Magdalena M.',    start: '2018-11-15T10:00:00',  end: '2018-11-15T12:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'COP Meeting / Blanka M.',    start: '2018-11-15T15:00:00',  end: '2018-11-15T16:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Intercultural comm. between Eschborn/Prague and Singapore / Frank J.', start: '2018-11-15T09:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-15T16:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
