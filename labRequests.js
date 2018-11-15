@@ -138,5 +138,6 @@ var labEvents = [
   { title: 'ExCo Lunch / Konstanze O.',  start: '2018-12-06T10:00:00', end: '2018-12-06T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'HR Innovation Meet-Up / Tom W.',  start: '2018-12-06T15:00:00', end: '2018-12-06T17:00:00',     resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-12-13T16:00:00', end: '2018-12-13T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' }
+  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Labor Union Meeting / Adam R.',  start: '2018-11-15T16:00:00', end: '2018-11-15T17:30:00',   resourceId: 'C-MEETROOM' }
 ]
