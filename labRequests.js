@@ -126,7 +126,6 @@ var labEvents = [
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-15T16:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'EDT planning with / Michal K.', start: '2018-11-19T13:00:00', end: '2018-11-19T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Scrum Community of Practice / Ondrej V.', start: '2018-11-20T15:00:00', end: '2018-11-20T16:00:00', resourceId: 'C-MEETROOM' },
-  { title: 'Workshop / Lars B.', start: '2018-11-19', end: '2018-11-22', resourceId: 'B-LONGTABLE' }, 
   { title: 'Board Games Event / Tomas K.', start: '2018-11-21T17:00:00', end: '2018-11-21T22:00:00', resourceId: 'B-LONGTABLE' }, 
   { title: '10th COP Anniversary / Misa C.', start: '2018-11-22T13:00:00', end: '2018-11-22T20:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'RDS Knowledge Transfer / Dirk K.', start: '2018-11-23T10:00:00', end: '2018-11-23T12:00:00', resourceId: 'C-MEETROOM' },
