@@ -124,6 +124,7 @@ var labEvents = [
   { title: 'COP Meeting / Blanka M.',    start: '2018-11-15T15:00:00',  end: '2018-11-15T16:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Intercultural comm. between Eschborn/Prague and Singapore / Frank J.', start: '2018-11-15T09:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-15T16:00:00', end: '2018-11-15T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'EDT plannig with / kuritka', start: '2018-11-19T13:00:00', end: '2018-11-19T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Workshop / Lars B.', start: '2018-11-19', end: '2018-11-22', resourceId: 'B-LONGTABLE' }, 
   { title: 'Board Games Event / Tomas K.', start: '2018-11-21T17:00:00', end: '2018-11-21T22:00:00', resourceId: 'B-LONGTABLE' }, 
   { title: '10th COP Anniversary / Misa C.', start: '2018-11-22T13:00:00', end: '2018-11-22T20:00:00', resourceId: 'B-LONGTABLE' },
