@@ -10,4 +10,4 @@
 # precedence. When someone opens a pull request that only
 # modifies JS files, only @js-owner and not the global
 # owner(s) will be requested for a review.
-*.js    @StanSiska @amra
+*.js    @StanSiska
