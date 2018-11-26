@@ -144,5 +144,6 @@ var labEvents = [
   { title: 'XBID Sprint Review / Marek F.', start: '2018-11-22T10:00:00', end: '2018-11-22T11:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7 Internal Workshop / Kamil O.', start: '2018-11-22T14:00:00', end: '2018-11-22T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-12-13T16:00:00', end: '2018-12-13T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' }
-]
+  { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' },
+ { title: 'Energy IT M7A / Sakar',    start: '2018-11-26T12:30:00',     end  : '2018-11-26T14:00:00',    resourceId: C-MEETROOM
+} ]
