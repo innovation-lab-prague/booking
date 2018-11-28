@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'First Friday 2019 / Josef P.', start: '2018-12-07T12:00:00', end: '2018-12-07T13:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'M7A Refinement / Ondra V.',     start: '2018-11-26T12:00:00',  end: '2018-11-26T14:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'M7A Refinement / Ondra V.',     start: '2018-11-26T08:30:00',  end: '2018-11-26T11:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'PWX Workshop / Ondra V.',     start: '2018-11-28T08:00:00',  end: '2018-11-29T17:00:00', resourceId: 'C-MEETROOM'   },
