@@ -138,6 +138,7 @@ var labEvents = [
   { title: 'XBID Product Backlog Refinement / Marek F.', start: '2018-11-26T14:00:00', end: '2018-11-26T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'EDT Workshop / Lars B.', start: '2018-11-26', end: '2018-11-28', resourceId: 'B-LONGTABLE' }, 
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-11-29T16:00:00', end: '2018-11-29T17:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'EDT Sprint Review / Martin S.',  start: '2018-12-03T10:00:00', end: '2018-12-03T10:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Townhall Meeting / Misa C.',  start: '2018-12-04T14:00:00', end: '2018-12-04T15:00:00',     resourceId: 'B-LONGTABLE' },
   { title: 'VC / Peter Hollovic',  start: '2018-12-04T15:30:00', end: '2018-12-04T16:30:00',     resourceId: 'C-MEETROOM' },
   { title: 'StatistiX Future / Ondrej S.',  start: '2018-12-05T14:00:00', end: '2018-12-05T15:00:00',     resourceId: 'C-MEETROOM' },
