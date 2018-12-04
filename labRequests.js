@@ -149,6 +149,7 @@ var labEvents = [
   { title: 'HR Christmass Charity Shop / Mia M.', start: '2018-12-18T08:00:00', end: '2018-12-18T19:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'XBID Sprint Review / Marek F.', start: '2018-11-22T10:00:00', end: '2018-11-22T11:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7 Internal Workshop / Kamil O.', start: '2018-11-22T14:00:00', end: '2018-11-22T15:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'Energy DWH / Pavel P.', start: '2018-12-12T14:00:00', end: '2018-12-12T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-12-13T16:00:00', end: '2018-12-13T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'PrismaTestTeam - BBS / Tomas A.', start: '2018-12-04T11:30:00', end: '2018-12-04T13:00:00', resourceId: 'C-MEETROOM' }
