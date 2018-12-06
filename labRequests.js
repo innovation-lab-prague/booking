@@ -148,6 +148,7 @@ var labEvents = [
   { title: 'XBID Sprint Review / Marek F.',  start: '2018-12-06T10:00:00', end: '2018-12-06T11:00:00',     resourceId: 'B-LONGTABLE' },
   { title: 'HR Innovation Meet-Up / Tom W.',  start: '2018-12-06T15:00:00', end: '2018-12-06T17:00:00',     resourceId: 'B-LONGTABLE' },
   { title: 'Week of StatistiX / Ondrej S.',  start: '2018-12-12T14:00:00', end: '2018-12-12T15:00:00',     resourceId: 'C-MEETROOM' },
+  { title: 'Corporate Systems get-together / Ondrej S.',  start: '2018-12-12T15:30:00', end: '2018-12-12T17:30:00',     resourceId: 'A-ROUNDTABLE' },
   { title: 'HR Christmass Charity Shop / Mia M.', start: '2018-12-18T08:00:00', end: '2018-12-18T19:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'XBID Sprint Review / Marek F.', start: '2018-11-22T10:00:00', end: '2018-11-22T11:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7 Internal Workshop / Kamil O.', start: '2018-11-22T14:00:00', end: '2018-11-22T15:30:00', resourceId: 'C-MEETROOM' },
