@@ -155,5 +155,6 @@ var labEvents = [
   { title: 'Energy DWH #2/ Pavel P.', start: '2018-12-12T13:00:00', end: '2018-12-12T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-12-13T16:00:00', end: '2018-12-13T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'PrismaTestTeam - BBS / Tomas A.', start: '2018-12-04T11:30:00', end: '2018-12-04T13:00:00', resourceId: 'C-MEETROOM' }
+  { title: 'PrismaTestTeam - BBS / Tomas A.', start: '2018-12-04T11:30:00', end: '2018-12-04T13:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T12:30:00', end: '2019-02-05T19:00:00', resourceId: 'C-MEETROOM' }
 ]
