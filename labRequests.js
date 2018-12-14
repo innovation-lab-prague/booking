@@ -156,6 +156,7 @@ var labEvents = [
   { title: 'Qlik Workshop / Preuss M.', start: '2018-12-13T11:00:00', end: '2018-12-13T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Innovation lab talk / Pavel P.', start: '2018-12-13T14:00:00', end: '2018-12-13T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2018-12-13T16:00:00', end: '2018-12-13T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'MEGA Replacement - Design / Preuss M.', start: '2018-12-17T15:00:00', end: '2018-12-17T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'PrismaTestTeam - BBS / Tomas A.', start: '2018-12-04T11:30:00', end: '2018-12-04T13:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Christmas MNG Meeting / Misa C.', start: '2018-12-21T14:00:00', end: '2018-12-21T15:30:00', resourceId: 'B-LONGTABLE' },
