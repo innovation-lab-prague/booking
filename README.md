@@ -1,3 +1,6 @@
+**Important Note**:
+In case booking extends outside of business hours, You need to create ticket for extra Cleaning http://sappip.deutsche-boerse.de/irj/portal/FM
+
 # Innovation Lab Booking list
 
 Create Your first booking in 3 simple steps:
