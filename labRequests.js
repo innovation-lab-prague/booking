@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'HUPX Workshop / Blanka M.',      start: '2019-01-21T08:45:00',  end: '2019-01-25T18:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Reinventing Organisations / Josef P.', start: '2019-01-18T15:00:00', end: '2019-01-18T16:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'COP Meeting / Ondra V.',      start: '2018-12-04T15:00:00',  end: '2018-12-04T16:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'First Friday 2019 / Josef P.', start: '2018-12-07T12:00:00', end: '2018-12-07T13:00:00', resourceId: 'B-LONGTABLE'    },
