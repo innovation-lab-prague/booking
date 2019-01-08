@@ -165,6 +165,7 @@ var labEvents = [
   { title: 'Christmas MNG Meeting / Misa C.', start: '2018-12-21T14:00:00', end: '2018-12-21T15:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Stx Meeting / Ondrej S.', start: '2019-01-02T14:00:00', end: '2019-01-02T14:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'RRH Job interview / Frantisek H.',  start: '2019-01-03T09:00:00', end: '2019-01-03T10:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'RRH Job interview / Frantisek H.',  start: '2019-01-09T10:00:00', end: '2019-01-09T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Travellers Club / Marketa T', start: '2019-01-23T16:00:00', end: '2019-01-23T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-24T16:00:00', end: '2019-01-24T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T12:30:00', end: '2019-02-05T19:00:00', resourceId: 'C-MEETROOM' },
