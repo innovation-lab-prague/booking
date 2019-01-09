@@ -168,6 +168,7 @@ var labEvents = [
   { title: 'RRH Job interview / Frantisek H.',  start: '2019-01-09T10:00:00', end: '2019-01-09T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'StatistiX Weekly/ Ondrej S.',  start: '2019-01-09T14:00:00', end: '2019-01-09T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'XBID Sprint Review / Marek F.',  start: '2019-01-09T15:00:00', end: '2019-01-09T16:00:00',     resourceId: 'C-MEETROOM' },
+  { title: 'Interview Planning K.Greif / Michal P.',  start: '2019-01-10T13:30:00', end: '2019-01-10T14:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Travellers Club / Marketa T', start: '2019-01-23T16:00:00', end: '2019-01-23T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-24T16:00:00', end: '2019-01-24T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T12:30:00', end: '2019-02-05T19:00:00', resourceId: 'C-MEETROOM' },
