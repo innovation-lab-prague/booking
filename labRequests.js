@@ -174,5 +174,6 @@ var labEvents = [
   { title: 'Scrum Beer  / Pavel P.', start: '2019-02-26T18:00:00', end: '2019-02-26T21:0:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'A-ROUNDTABLE' },
-  { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'C-MEETROOM' }
+  { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Interview - Cerny', start: '2019-01-09T11:30:00', end: '2019-01-09T12:30:00', resourceId: 'C-MEETROOM'}
 ]
