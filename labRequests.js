@@ -173,6 +173,7 @@ var labEvents = [
   { title: 'RRH Job interview planning / Frantisek H.',  start: '2019-01-10T13:30:00', end: '2019-01-10T14:00:00', resourceId: 'C-MEETROOM' },
   { title: 'RRH Conf call with service provider / Frantisek H.',  start: '2019-01-10T14:00:00', end: '2019-01-10T15:15:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'R7 GUI Architecture / Dirk K.', start: '2019-01-14T10:00:00', end: '2019-01-14T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Travellers Club / Marketa T', start: '2019-01-23T16:00:00', end: '2019-01-23T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-24T16:00:00', end: '2019-01-24T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T12:30:00', end: '2019-02-05T19:00:00', resourceId: 'C-MEETROOM' },
