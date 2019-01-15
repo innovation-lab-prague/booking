@@ -188,5 +188,6 @@ var labEvents = [
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'C-MEETROOM' },
-  { title: 'IFS IT Section Meeting / Christian P.', start: '2019-01-21T14:00:00', end: '2019-01-21T15:30:00', resourceId: 'B-LONGTABLE' }    
+  { title: 'IFS IT Section Meeting / Christian P.', start: '2019-01-21T14:00:00', end: '2019-01-21T15:30:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-17T16:00:00', end: '2019-01-17T17:30:00',   resourceId: 'B-LONGTABLE' }
 ]
