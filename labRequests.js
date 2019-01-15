@@ -174,6 +174,8 @@ var labEvents = [
   { title: 'RRH Job interview planning / Frantisek H.',  start: '2019-01-10T13:30:00', end: '2019-01-10T14:00:00', resourceId: 'C-MEETROOM' },
   { title: 'RRH Conf call with service provider / Frantisek H.',  start: '2019-01-10T14:00:00', end: '2019-01-10T15:15:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-10T16:00:00', end: '2019-01-10T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'SETI Meet / Stan S.', start: '2019-01-15T09:00:00', end: '2019-01-15T10:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'STOXX Meet / John A.', start: '2019-01-15T12:00:00', end: '2019-01-15T13:30:00', resourceId: 'C-MEETROOM' },
   { title: 'StatistiX Coordination/ Ondrej S.',  start: '2019-01-16T14:00:00', end: '2019-01-16T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'R7 GUI Architecture / Dirk K.', start: '2019-01-14T10:00:00', end: '2019-01-14T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'COP Meet / Martina D.', start: '2019-01-15T09:00:00', end: '2019-01-15T10:00:00', resourceId: 'B-LONGTABLE' },
