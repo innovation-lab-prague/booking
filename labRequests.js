@@ -184,6 +184,7 @@ var labEvents = [
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T12:30:00', end: '2019-02-05T19:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-02-07T16:00:00', end: '2019-02-07T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-02-21T16:00:00', end: '2019-02-21T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'DBP Workshop / Dirk K.', start: '2019-02-20', end: '2019-02-23', resourceId: 'C-MEETROOM' },
   { title: 'Scrum Beer  / Pavel P.', start: '2019-03-05T18:00:00', end: '2019-03-05T21:0:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'A-ROUNDTABLE' },
