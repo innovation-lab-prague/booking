@@ -197,5 +197,6 @@ var labEvents = [
   { title: 'COP OPS Meeting / Misa C.', start: '2019-06-25T14:00:00', end: '2019-06-25T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Training Preparation / Compliance / Jana A.',  start: '2019-01-17T11:00:00', end: '2019-01-17T14:00:00',   resourceId: 'C-MEETROOM' },
   { title: 'RRH Conf call with service provider / Frantisek H.',  start: '2019-01-17T14:00:00', end: '2019-01-17T14:45:00',   resourceId: 'C-MEETROOM' },
-  { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-17T16:00:00', end: '2019-01-17T17:30:00',   resourceId: 'B-LONGTABLE' }
+  { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-17T16:00:00', end: '2019-01-17T17:30:00',   resourceId: 'B-LONGTABLE' },
+  { title: 'Prisma RDS-GUI: re:Invent 2018 / Zdenda P.', start: '2019-01-24T13:00:00', end: '2019-01-24T15:00:00', resourceId: 'B-LONGTABLE' }
 ]
