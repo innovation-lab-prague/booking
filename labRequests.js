@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'COP Meeting / Ondra V.', start: '2019-01-29T14:30:00',  end: '2019-01-29T15:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'M7A Cloud / Nurhayat S.', start: '2019-02-19T09:00:00', end: '2019-02-19T11:00:00', resourceId: 'C-MEETROOM'},
   { title: 'M7A Refinement / Nurhayat S.', start: '2019-01-15T12:00:00', end: '2019-01-15T13:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: 'M7A Cloudification / Nurhayat S.', start: '2019-03-04T09:00:00', end: '2019-03-04T17:00:00', resourceId: 'C-MEETROOM' },
