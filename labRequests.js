@@ -193,6 +193,7 @@ var labEvents = [
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Farewell Presentation / Petr P.', start: '2019-02-29T15:30:00', end: '2019-02-29T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'IFS IT Section Meeting / Christian P.', start: '2019-01-21T14:00:00', end: '2019-01-21T15:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'COP MNG Meeting / Misa C.', start: '2019-06-18T14:00:00', end: '2019-06-18T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'COP OPS Meeting / Misa C.', start: '2019-06-25T14:00:00', end: '2019-06-25T15:00:00', resourceId: 'B-LONGTABLE' },
