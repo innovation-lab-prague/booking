@@ -185,6 +185,7 @@ var labEvents = [
   { title: 'StatistiX Coordination/ Ondrej S.',  start: '2019-01-30T14:00:00', end: '2019-01-30T15:00:00',     resourceId: 'C-MEETROOM' },
   { title: 'Travellers Club / Marketa T', start: '2019-02-06T16:00:00', end: '2019-02-06T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-24T16:00:00', end: '2019-01-24T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T09:30:00', end: '2019-02-05T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T12:30:00', end: '2019-02-05T19:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-02-07T16:00:00', end: '2019-02-07T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-02-21T16:00:00', end: '2019-02-21T17:00:00', resourceId: 'B-LONGTABLE' },
