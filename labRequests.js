@@ -188,6 +188,7 @@ var labEvents = [
   { title: 'Travellers Club / Marketa T', start: '2019-02-06T16:00:00', end: '2019-02-06T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-01-24T16:00:00', end: '2019-01-24T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Linux Security Meeting / Pascal V.', start: '2019-01-30T11:15:00', end: '2019-01-30T12:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-31T16:00:00', end: '2019-01-31T17:30:00',   resourceId: 'B-LONGTABLE' },
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T09:30:00', end: '2019-02-05T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T12:30:00', end: '2019-02-05T19:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-02-07T16:00:00', end: '2019-02-07T17:00:00', resourceId: 'B-LONGTABLE' },
@@ -207,6 +208,5 @@ var labEvents = [
   { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-17T16:00:00', end: '2019-01-17T17:30:00',   resourceId: 'B-LONGTABLE' },
   { title: 'DT services / Martin S.',  start: '2019-02-01T13:00:00', end: '2019-02-01T15:00:00',   resourceId: 'C-MEETROOM' },
   { title: 'Prisma RDS-GUI: re:Invent 2018 / Zdenda P.', start: '2019-01-24T13:00:00', end: '2019-01-24T15:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'HoU Meeting / Karolina S.', start: '2019-06-18T15:30:00', end: '2019-06-18T16:30:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-31T16:00:00', end: '2019-01-31T17:30:00',   resourceId: 'B-LONGTABLE' }
+  { title: 'HoU Meeting / Karolina S.', start: '2019-06-18T15:30:00', end: '2019-06-18T16:30:00', resourceId: 'B-LONGTABLE' }
 ]
