@@ -197,6 +197,7 @@ var labEvents = [
    { title: 'T. Mann Gymnasium-DBG Introduction / Tom W.', start: '2019-03-01T12:30:00', end: '2019-03-01T13:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Scrum Beer  / Pavel P.', start: '2019-03-05T18:00:00', end: '2019-03-05T21:0:00', resourceId: 'B-LONGTABLE' },
   { title: 'Happiness At Work  / Tom W.', start: '2019-03-07T10:00:00', end: '2019-03-07T12:0:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Board Games Event / Tomas K.', start: '2019-03-20T17:00:00', end: '2019-03-20T22:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'T2S Prague / Misa C.', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'C-MEETROOM' },
