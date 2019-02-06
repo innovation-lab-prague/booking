@@ -191,6 +191,8 @@ var labEvents = [
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T09:30:00', end: '2019-02-05T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Workshop & Planning - TSA / Sebastian N.', start: '2019-02-04T12:30:00', end: '2019-02-05T19:00:00', resourceId: 'C-MEETROOM' },
   { title: 'StatistiX Week/ Ondrej S.',  start: '2019-02-06T14:00:00', end: '2019-02-06T15:00:00',     resourceId: 'C-MEETROOM' },
+  { title: 'HR Training / Vendula S.', start: '2019-02-07T13:00:00', end: '2019-02-07T14:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'HR Training / Vendula S.', start: '2019-02-07T15:00:00', end: '2019-02-07T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-02-07T16:00:00', end: '2019-02-07T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-02-19T16:00:00', end: '2019-02-19T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'DBP Workshop / Stanimira B.', start: '2019-02-20', end: '2019-02-23', resourceId: 'B-LONGTABLE' },
