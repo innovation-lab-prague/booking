@@ -209,5 +209,5 @@ var labEvents = [
   { title: 'Prisma RDS-GUI: re:Invent 2018 / Zdenda P.', start: '2019-01-24T13:00:00', end: '2019-01-24T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'HoU Meeting / Karolina S.', start: '2019-06-18T15:30:00', end: '2019-06-18T16:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-31T16:00:00', end: '2019-01-31T17:30:00',   resourceId: 'B-LONGTABLE' },
-  { title: 'Test / Stan.',  start: '2019-02-31T16:00:00', end: '2019-02-31T17:30:00',   resourceId: 'B-LONGTABLE' }
+  { title: 'Test666 / Stan.',  start: '2019-02-31T16:00:00', end: '2019-02-31T17:30:00',   resourceId: 'B-LONGTABLE' }
 ]
