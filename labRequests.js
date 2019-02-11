@@ -199,7 +199,7 @@ var labEvents = [
   { title: 'DBP Workshop / Stanimira B.', start: '2019-02-20', end: '2019-02-23', resourceId: 'B-LONGTABLE' },
   { title: 'T. Mann Gymnasium-DBG Introduction / Tom W.', start: '2019-03-01T12:30:00', end: '2019-03-01T13:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Scrum Beer  / Pavel P.', start: '2019-03-05T18:00:00', end: '2019-03-05T21:0:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Clarity Project Manager training / Michal P.', start: '2019-03-06T11:00:00', end: '2019-03-06T18:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Clarity Project Manager training / Michal P.', start: '2019-03-06T11:00:00', end: '2019-03-06T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Happiness At Work  / Tom W.', start: '2019-03-07T10:00:00', end: '2019-03-07T12:0:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-03-07T16:00:00', end: '2019-03-07T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Board Games Event / Tomas K.', start: '2019-03-20T17:00:00', end: '2019-03-20T22:00:00', resourceId: 'B-LONGTABLE' },
