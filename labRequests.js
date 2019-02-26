@@ -206,6 +206,7 @@ var labEvents = [
   { title: 'VC Meeting / Stephan R.', start: '2019-02-22T11:00:00', end: '2019-02-22T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmaster Club Officer Meeting / Dirk K.', start: '2019-02-25T15:00:00', end: '2019-02-25T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'ECP JF / Michal P.', start: '2019-02-26T09:30:00', end: '2019-02-26T10:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Service Work / Stanislav S.', start: '2019-02-27T13:30:00', end: '2019-02-27T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'T. Mann Gymnasium-DBG Introduction / Tom W.', start: '2019-03-01T12:30:00', end: '2019-03-01T13:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Scrum Beer  / Pavel P.', start: '2019-03-05T18:00:00', end: '2019-03-05T21:0:00', resourceId: 'B-LONGTABLE' },
   { title: 'Team Townhall meeting / Fabian H.', start: '2019-03-06T17:00:00', end: '2019-03-06T18:0:00', resourceId: 'B-LONGTABLE' },
