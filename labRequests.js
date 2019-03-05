@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Business Operations 2019 Targets Workshop / Alex T.', start: '2019-03-12T13:00:00', end: '2019-03-12T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7A UI / Ondrej B.', start: '2019-03-05T09:30:00',  end: '2019-03-05T16:00:00', resourceId: 'C-MEETROOM' },  
   { title: 'OpsGenie Demo For Energy / Alex T.', start: '2019-03-13T09:00:00',  end: '2019-03-13T11:00:00', resourceId: 'C-MEETROOM'    },  
   { title: 'RPA Governance / Michal K.', start: '2019-02-13T10:00:00',  end: '2019-02-13T18:00:00', resourceId: 'C-MEETROOM'    },  
