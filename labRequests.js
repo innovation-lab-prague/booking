@@ -16,6 +16,7 @@ var labEvents = [
   { title: 'Recruitment Session / Renata P.', start: '2019-03-12T14:00:00', end: '2019-03-12T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'EDT Meeting / Michal K.', start: '2019-03-11', end: '2019-03-16', resourceId: 'B-LONGTABLE' },
   { title: 'Marketing Workshop / Kamila L.', start: '2019-03-21T10:00:00', end: '2019-03-21T12:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Sentinel One Workshop / Josef S.', start: '2019-03-21T13:00:00', end: '2019-03-21T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Days / HR', start: '2019-04-01T09:00:00', end: '2019-04-01T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'COP Meeting / Ondra V.', start: '2019-01-15T14:30:00',  end: '2019-01-15T15:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'HUPX Workshop / Blanka M.',      start: '2019-01-23T08:45:00',  end: '2019-01-24T18:00:00', resourceId: 'C-MEETROOM'   },
