@@ -221,6 +221,7 @@ var labEvents = [
   { title: 'Clarity Project Manager training / Michal P.', start: '2019-03-06T11:00:00', end: '2019-03-06T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Happiness At Work  / Tom W.', start: '2019-03-07T10:00:00', end: '2019-03-07T12:0:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-03-07T16:00:00', end: '2019-03-07T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Risk IT RDS Design Meeting / Dirk K.', start: '2019-03-08T14:30:00', end: '2019-03-08T16:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Board Games Event / Tomas K.', start: '2019-03-20T17:00:00', end: '2019-03-20T22:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-03-21T16:00:00', end: '2019-03-21T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Finance Roadmap / Tanja U.', start: '2019-03-26T10:00:00', end: '2019-03-26T16:00:00', resourceId: 'B-LONGTABLE' },
