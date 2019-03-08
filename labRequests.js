@@ -18,6 +18,8 @@ var labEvents = [
   { title: 'Marketing Workshop / Kamila L.', start: '2019-03-21T10:00:00', end: '2019-03-21T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Sentinel One Workshop / Josef S.', start: '2019-03-21T13:00:00', end: '2019-03-21T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Days / HR', start: '2019-04-01T09:00:00', end: '2019-04-01T12:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'User Recertification Check / Elena S.', start: '2019-04-10T15:00:00', end: '2019-04-10T16:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'User Recertification Check / Elena S.', start: '2019-04-11T10:00:00', end: '2019-04-11T11:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'COP Meeting / Ondra V.', start: '2019-01-15T14:30:00',  end: '2019-01-15T15:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'HUPX Workshop / Blanka M.',      start: '2019-01-23T08:45:00',  end: '2019-01-24T18:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Reinventing Organisations / Josef P.', start: '2019-01-18T15:00:00', end: '2019-01-18T16:00:00', resourceId: 'B-LONGTABLE'    },
