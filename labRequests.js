@@ -16,6 +16,7 @@ var labEvents = [
   { title: 'M7A Cloudification / Nurhayat S.', start: '2019-03-04T09:00:00', end: '2019-03-04T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Recruitment Session / Renata P.', start: '2019-03-25T14:00:00', end: '2019-03-25T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'EDT Meeting / Michal K.', start: '2019-03-12', end: '2019-03-16', resourceId: 'B-LONGTABLE' },
+  { title: 'Meeting / Ali E.', start: '2019-03-21T09:00:00', end: '2019-03-21T13:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Marketing Workshop / Kamila L.', start: '2019-03-21T10:00:00', end: '2019-03-21T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Sentinel One Workshop / Josef S.', start: '2019-03-21T13:00:00', end: '2019-03-21T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Days / HR', start: '2019-04-01T09:00:00', end: '2019-04-01T12:00:00', resourceId: 'B-LONGTABLE' },
