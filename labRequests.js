@@ -237,7 +237,6 @@ var labEvents = [
   { title: 'Finance Roadmap / Tanja U.', start: '2019-03-27T10:00:00', end: '2019-03-27T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Finance Roadmap / Tanja U.', start: '2019-03-28T10:00:00', end: '2019-03-28T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Finance Roadmap / Tanja U.', start: '2019-03-28T10:00:00', end: '2019-03-28T16:00:00', resourceId: 'C-MEETROOM' },
-  { title: 'HR Welcome Days / Vera S. ', start: '2019-03-29T08:00:00',  end: '2019-03-29T14:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-04-04T16:00:00', end: '2019-04-04T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'HR Welcome Days / Vera S. ', start: '2019-04-12T08:00:00',  end: '2019-04-12T14:00:00', resourceId: 'B-LONGTABLE'    },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-04-18T16:00:00', end: '2019-04-18T17:00:00', resourceId: 'B-LONGTABLE' },
