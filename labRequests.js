@@ -1,6 +1,7 @@
 var labEvents = [
   { title: 'Test COP / Blanka M.', start: '2019-03-28T14:00:00',  end: '2019-03-28T15:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'EPEX Workshop / Blanka M.', start: '2019-03-26T13:00:00',  end: '2019-03-26T16:00:00', resourceId: 'C-MEETROOM'   },
+  { title: 'Stoxx LM / Elena S.', start: '2019-07-10', end: '2019-07-12', resourceId: 'C-MEETROOM' },
   { title: 'RRH Job Interview / Frantisek H.',  start: '2019-03-15T15:00:00', end: '2019-03-15T16:15:00',   resourceId: 'C-MEETROOM' },
   { title: 'Business Operations 2019 Targets Workshop / Alex T.', start: '2019-03-12T13:00:00', end: '2019-03-12T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7A UI / Ondrej B.', start: '2019-03-05T09:30:00',  end: '2019-03-05T16:00:00', resourceId: 'C-MEETROOM' },  
@@ -17,6 +18,10 @@ var labEvents = [
   { title: 'M7A Refinement / Nurhayat S.', start: '2019-01-15T12:00:00', end: '2019-01-15T13:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: 'M7A Cloudification / Nurhayat S.', start: '2019-03-04T09:00:00', end: '2019-03-04T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Recruitment Session / Renata P.', start: '2019-03-25T14:00:00', end: '2019-03-25T16:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'GoT #1/ Tomas K.', start: '2019-03-21T17:30:00', end: '2019-03-21T19:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'GoT #2/ Tomas K.', start: '2019-03-28T17:30:00', end: '2019-03-28T19:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'GoT #3/ Tomas K.', start: '2019-04-04T17:30:00', end: '2019-04-04T19:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'GoT #4/ Tomas K.', start: '2019-04-11T17:30:00', end: '2019-04-11T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'EDT Meeting / Michal K.', start: '2019-03-12', end: '2019-03-16', resourceId: 'B-LONGTABLE' },
   { title: 'Meeting / Ali E.', start: '2019-03-21T09:00:00', end: '2019-03-21T13:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Marketing Workshop / Kamila L.', start: '2019-03-21T10:00:00', end: '2019-03-21T12:00:00', resourceId: 'B-LONGTABLE' },
