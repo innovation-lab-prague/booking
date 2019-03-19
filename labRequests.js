@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Stoxx LM / Elena S.', start: '2019-07-10', end: '2019-07-12', resourceId: 'C-MEETROOM' },
   { title: 'COP Meeting / Ondra V.', start: '2019-03-26T14:30:00',  end: '2019-03-26T15:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'RRH Job Interview / Frantisek H.',  start: '2019-03-15T15:00:00', end: '2019-03-15T16:15:00',   resourceId: 'C-MEETROOM' },
   { title: 'Business Operations 2019 Targets Workshop / Alex T.', start: '2019-03-12T13:00:00', end: '2019-03-12T15:00:00', resourceId: 'C-MEETROOM' },
