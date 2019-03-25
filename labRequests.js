@@ -21,6 +21,7 @@ var labEvents = [
   { title: 'Recruitment Session / Renata P.', start: '2019-03-25T14:00:00', end: '2019-03-25T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'GoT #1/ Tomas K.', start: '2019-03-21T17:30:00', end: '2019-03-21T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'GoT #2/ Tomas K.', start: '2019-03-28T17:30:00', end: '2019-03-28T19:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'GoT #3/ Tomas K.', start: '2019-04-03T11:00:00', end: '2019-04-03T13:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'GoT #3/ Tomas K.', start: '2019-04-04T17:30:00', end: '2019-04-04T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'GoT #4/ Tomas K.', start: '2019-04-11T17:30:00', end: '2019-04-11T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'EDT Meeting / Michal K.', start: '2019-03-12', end: '2019-03-16', resourceId: 'B-LONGTABLE' },
