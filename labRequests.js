@@ -255,6 +255,8 @@ var labEvents = [
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-04-18T16:00:00', end: '2019-04-18T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Scrum Training / Martin K.', start: '2019-04-24', end: '2019-04-26', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-05-02T16:00:00', end: '2019-05-02T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Happines At Work / Tom W.', start: '2019-05-16T10:00:00', end: '2019-05-16T11:30:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Future of Recruitment / Tom W.', start: '2019-05-23T09:30:00', end: '2019-05-23T11:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa/Kamila', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa/Kamila', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'T2S Prague / Misa/Kamila', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'C-MEETROOM' },
