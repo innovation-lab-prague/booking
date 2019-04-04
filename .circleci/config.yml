@@ -2,13 +2,13 @@ version: 2
 jobs:
   build:
     docker:
-      - image: circleci/node:7.10
+      - image: circleci/node:latest
     working_directory:  /home/circleci/innovation-lab-booking
     
     branches: 
       only: 
         - master
-        
+    
     steps:
       - checkout
 
