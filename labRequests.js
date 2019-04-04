@@ -1,7 +1,7 @@
 var labEvents = [
+  { title: 'EPEX Workshop / Blanka M.', start: '2019-04-01T13:00:00',  end: '2019-04-01T16:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'BuBa Meeting', start: '2019-04-09T14:00:00',  end: '2019-04-01T15:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'BuBa Meeting', start: '2019-04-10T09:00:00',  end: '2019-04-10T11:00:00', resourceId: 'C-MEETROOM'   },
-  { title: 'EPEX Workshop / Blanka M.', start: '2019-04-01T10:00:00',  end: '2019-04-01T14:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'EPEX visit / Blanka M.', start: '2019-04-23T12:30:00',  end: '2019-04-23T21:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Test COP / Blanka M.', start: '2019-03-28T14:00:00',  end: '2019-03-28T15:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Scrum COP / Blanka M.', start: '2019-03-26T14:30:00',  end: '2019-03-26T15:30:00', resourceId: 'C-MEETROOM'   },
