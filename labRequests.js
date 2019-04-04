@@ -29,6 +29,7 @@ var labEvents = [
   { title: 'GoT #4/ Tomas K.', start: '2019-04-11T17:30:00', end: '2019-04-11T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'EDT Meeting / Michal K.', start: '2019-03-12', end: '2019-03-16', resourceId: 'B-LONGTABLE' },
   { title: 'Meeting / Ali E.', start: '2019-03-21T09:00:00', end: '2019-03-21T13:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Meeting / Guilhem C.', start: '2019-04-02T16:00:00', end: '2019-04-02T17:00:000', resourceId: 'C-MEETROOM' },
   { title: 'Marketing Workshop / Kamila L.', start: '2019-03-21T10:00:00', end: '2019-03-21T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Sentinel One Workshop / Josef S.', start: '2019-03-21T13:00:00', end: '2019-03-21T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Days / HR', start: '2019-04-01T09:00:00', end: '2019-04-01T12:00:00', resourceId: 'B-LONGTABLE' },
