@@ -39,6 +39,7 @@ var labEvents = [
   { title: 'User Recertification Check / Elena S.', start: '2019-04-11T10:00:00', end: '2019-04-11T11:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'K8s Training / David R.', start: '2019-04-08', end: '2019-04-11', resourceId: 'B-LONGTABLE' },
   { title: 'Docker Training / David R.', start: '2019-04-15', end: '2019-04-18', resourceId: 'B-LONGTABLE' },
+  { title: 'PDL Workshop / Mira B.', start: '2019-04-15', end: '2019-04-17', resourceId: 'C-MEETROOM' },  
   { title: 'Facility - Carpet fix / Ondrej H.', start: '2019-04-18T08:00:00', end: '2019-04-18T12:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'COP Meeting / Ondra V.', start: '2019-01-15T14:30:00',  end: '2019-01-15T15:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'HUPX Workshop / Blanka M.',      start: '2019-01-23T08:45:00',  end: '2019-01-24T18:00:00', resourceId: 'C-MEETROOM'   },
