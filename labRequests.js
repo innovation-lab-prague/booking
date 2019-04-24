@@ -120,5 +120,6 @@ var labEvents = [
   { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-31T16:00:00', end: '2019-01-31T17:30:00',   resourceId: 'B-LONGTABLE' },
   { title: 'Deep Dive Scrum & next steps / Martin S.',  start: '2019-03-20', resourceId: 'C-MEETROOM' },
   { title: 'Labor Union Meeting / Ladislav T.',  start: '2019-04-11T16:00:00', end: '2019-04-11T17:00:00',   resourceId: 'C-MEETROOM' },
-  { title: 'Labor Union Meeting / Adam R.',  start: '2019-04-25T15:00:00', end: '2019-04-25T16:30:00',   resourceId: 'C-MEETROOM' }
+  { title: 'Labor Union Meeting / Adam R.',  start: '2019-04-25T15:00:00', end: '2019-04-25T16:30:00',   resourceId: 'C-MEETROOM' },
+  { title: 'RPA Meeting / Tomas B.',  start: '2019-04-25T12:30:00', end: '2019-04-25T13:30:00',   resourceId: 'C-MEETROOM' }
 ]
