@@ -130,5 +130,9 @@ var labEvents = [
   { title: 'M7A Customer meeting / Pavol Lacko', start: '2019-05-22T08:00:00',  end: '2019-05-23T17:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-05-30T16:00:00', end: '2019-05-30T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-06-13T16:00:00', end: '2019-06-13T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Toastmasters Public Speaking / David M.', start: '2019-06-27T16:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' }
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-06-27T16:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-11T16:00:00', end: '2019-07-11T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-25T16:00:00', end: '2019-07-25T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-08T16:00:00', end: '2019-08-08T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-22T16:00:00', end: '2019-08-22T17:00:00', resourceId: 'B-LONGTABLE' }
 ]
