@@ -124,8 +124,16 @@ var labEvents = [
   { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-31T16:00:00', end: '2019-01-31T17:30:00',   resourceId: 'B-LONGTABLE' },
   { title: 'Deep Dive Scrum & next steps / Martin S.',  start: '2019-03-20', resourceId: 'C-MEETROOM' },
   { title: 'Labor Union Meeting / Ladislav T.',  start: '2019-04-11T16:00:00', end: '2019-04-11T17:00:00',   resourceId: 'C-MEETROOM' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-05-16T16:00:00', end: '2019-05-16T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'WFM - iStudio workflow / Jan D.', start: '2019-04-25T10:00:00',  end: '2019-04-25T12:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Labor Union Meeting / Adam R.',  start: '2019-04-25T15:00:00', end: '2019-04-25T16:30:00',   resourceId: 'C-MEETROOM' },
   { title: 'RPA Meeting / Tomas B.',  start: '2019-04-25T12:30:00', end: '2019-04-25T13:30:00',   resourceId: 'C-MEETROOM' },
-  { title: 'M7A Customer meeting / Pavol Lacko', start: '2019-05-22T08:00:00',  end: '2019-05-23T17:30:00', resourceId: 'C-MEETROOM'   }  
+  { title: 'M7A Customer meeting / Pavol Lacko', start: '2019-05-22T08:00:00',  end: '2019-05-23T17:30:00', resourceId: 'C-MEETROOM'   },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-05-30T16:00:00', end: '2019-05-30T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-06-13T16:00:00', end: '2019-06-13T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-06-27T16:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-11T16:00:00', end: '2019-07-11T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-25T16:00:00', end: '2019-07-25T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-08T16:00:00', end: '2019-08-08T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-22T16:00:00', end: '2019-08-22T17:00:00', resourceId: 'B-LONGTABLE' }
 ]
