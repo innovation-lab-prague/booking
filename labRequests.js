@@ -106,7 +106,7 @@ var labEvents = [
   { title: 'Mindfulness / Tom W.', start: '2019-05-14T13:30:00', end: '2019-05-14T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Happines At Work / Tom W.', start: '2019-05-16T10:00:00', end: '2019-05-16T11:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Days / Vera S.', start: '2019-05-21T08:00:00', end: '2019-05-21T14:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Future of Recruitment / Tom W.', start: '2019-05-23T09:30:00', end: '2019-05-23T11:30:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Employer Branding / Tom W.', start: '2019-05-23T09:30:00', end: '2019-05-23T11:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa/Kamila', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'T2S Prague / Misa/Kamila', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'T2S Prague / Misa/Kamila', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'C-MEETROOM' },
