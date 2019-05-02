@@ -27,7 +27,7 @@ After commit, the pull request is automatically raised. When approved by authori
 ## Options
 
 ### Repeating Events
-add parameter: ```id``` and set the same id values for event
+add parameter: ```id``` and set the same id values for event. Please be aware, that repeating meetings are accepted in exceptional cases only. In case of such request, please notify Area Owner.
 
 Example:
 ```
@@ -35,12 +35,12 @@ Example:
   { id: 999, resourceId: 'A-ROUNDTABLE', title: 'Repeating Event / Stan.', start: '2018-06-16T16:00:00' }
 ``` 
 
-### All Day Event 
-Specify start day only
+### All Day Event
+specify start and end time. In case you'll end after 6 PM, raise a ticket to FM ([link](http://sappip.deutsche-boerse.de/irj/portal/FM)) to postpone area cleanup. 
 
 Example:
 ```
-  { resourceId: 'C-MEETING', title: 'Workshop + VC / Stan.', start: '2018-06-04'}
+  { resourceId: 'C-MEETING', title: 'Workshop + VC / Stan.', start: '2018-06-04T08:00:00', end: '2018-06-04T17:00:00'}
 ```
 
 
