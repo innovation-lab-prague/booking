@@ -136,5 +136,6 @@ var labEvents = [
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-11T16:00:00', end: '2019-07-11T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-25T16:00:00', end: '2019-07-25T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-08T16:00:00', end: '2019-08-08T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-22T16:00:00', end: '2019-08-22T17:00:00', resourceId: 'B-LONGTABLE' }
+  { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-22T16:00:00', end: '2019-08-22T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Workshop ClearingIT', start: '2018-05-29', resourceId: 'B-LONGTABLE' }
 ]
