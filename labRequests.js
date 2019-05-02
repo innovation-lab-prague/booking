@@ -131,6 +131,7 @@ var labEvents = [
   { title: 'RPA Meeting / Tomas B.',  start: '2019-04-25T12:30:00', end: '2019-04-25T13:30:00',   resourceId: 'C-MEETROOM' },
   { title: 'DT Services / Martin S.', start: '2019-05-02T10:00:00', end: '2019-05-02T11:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7A Customer meeting / Pavol Lacko', start: '2019-05-22T08:00:00',  end: '2019-05-23T17:30:00', resourceId: 'C-MEETROOM'   },
+  { title: 'Workshop ClearingIT / Jiri S.', start: '2019-05-29T09:00:00', end: '2019-05-29T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-05-30T16:00:00', end: '2019-05-30T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-06-13T16:00:00', end: '2019-06-13T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-06-27T16:00:00', end: '2019-06-27T17:00:00', resourceId: 'B-LONGTABLE' },
