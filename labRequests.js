@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Scrum COP / Ondrej V.', start: '2019-05-07T14:30:00',  end: '2019-05-07T15:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'M7A Ref / Nurhayat Sakar', start: '2019-04-16T09:00:00',  end: '2019-04-16T11:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'M7A Ref / Nurhayat Sakar', start: '2019-04-15T14:00:00',  end: '2019-04-15T16:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Energy Q1 OpsRev', start: '2019-04-17T14:00:00',  end: '2019-04-17T16:00:00', resourceId: 'C-MEETROOM'   },
