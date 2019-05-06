@@ -145,7 +145,7 @@ var labEvents = [
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-25T16:00:00', end: '2019-07-25T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-08T16:00:00', end: '2019-08-08T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-22T16:00:00', end: '2019-08-22T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Pulse Check / Ali', start: '2019-05-06T11:15:00', end: '2019-05-07T12:15:00', resourceId: 'C-MEETROOM' },
+  { title: 'Pulse Check / Ali', start: '2019-05-06T11:15:00', end: '2019-05-06T12:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Risk Kubernetes Ops Training / Chris O.', start: '2019-05-09', end: '2019-05-11', resourceId: 'C-MEETROOM' },
   { title: 'IFS IT Prague Team Meeting / Christian P.', start: '2019-05-22T15:00:00', end: '2019-05-22T16:30:00', resourceId: 'B-LONGTABLE' }
 ]
