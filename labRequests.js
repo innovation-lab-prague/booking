@@ -103,6 +103,7 @@ var labEvents = [
   { title: 'Toastmasters Public Speaking / Dirk K.', start: '2019-05-02T16:00:00', end: '2019-05-02T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'COP Mgmt / Kamila L.', start: '2019-05-07T13:00:00', end: '2019-05-07T14:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'AWS: AI Workshop / Stan.', start: '2019-05-13T09:00:00', end: '2019-05-13T12:30:00', resourceId: 'B-LONGTABLE' },
+  { title: 'AWS: Energy / Pavel P.', start: '2019-05-13T13:00:00', end: '2019-05-13T14:00:00', resourceId: 'C-MEETROOM' },
   { title: 'AWS: CD Workshop / Stan.', start: '2019-05-14T13:00:00', end: '2019-05-14T16:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Mindfulness / Tom W.', start: '2019-05-14T13:30:00', end: '2019-05-14T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Happines At Work / Tom W.', start: '2019-05-16T10:00:00', end: '2019-05-16T11:30:00', resourceId: 'B-LONGTABLE' },
