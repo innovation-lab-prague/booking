@@ -38,6 +38,7 @@ var labEvents = [
   { title: 'Sentinel One Workshop / Josef S.', start: '2019-03-21T13:00:00', end: '2019-03-21T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Days / HR', start: '2019-04-01T09:00:00', end: '2019-04-01T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Days / HR', start: '2019-05-02T09:00:00', end: '2019-05-02T12:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'C7 Meet / Katerina V', start: '2019-05-22T11:00:00', end: '2019-05-11T12:15:00', resourceId: 'B-LONGTABLE' },
   { title: 'User Recertification Check / Elena S.', start: '2019-04-10T15:00:00', end: '2019-04-10T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'User Recertification Check / Elena S.', start: '2019-04-11T10:00:00', end: '2019-04-11T11:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'K8s Training / David R.', start: '2019-04-08', end: '2019-04-11', resourceId: 'B-LONGTABLE' },
