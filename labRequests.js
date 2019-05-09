@@ -149,4 +149,5 @@ var labEvents = [
   { title: 'Pulse Check / Ali', start: '2019-05-06T11:15:00', end: '2019-05-06T12:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Risk Kubernetes Ops Training / Chris O.', start: '2019-05-09', end: '2019-05-11', resourceId: 'C-MEETROOM' },
   { title: 'IFS IT Prague Team Meeting / Christian P.', start: '2019-05-22T15:00:00', end: '2019-05-22T16:30:00', resourceId: 'B-LONGTABLE' }
+  { title: 'DBP Workshop', start: '2019-07-03T09:00:00', end: '2019-07-04T17:00:00', resourceId: 'B-LONGTABLE' }
 ]
