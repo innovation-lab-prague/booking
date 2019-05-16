@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Energy BizOps Review / Alex T.', start: '2019-05-20T14:00:00', end: '2019-05-20T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'XBID Losses Workshop', start: '2019-05-15T10:00:00', end: '2019-05-15T15:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Scrum COP / Ondrej V.', start: '2019-05-07T14:30:00',  end: '2019-05-07T15:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'M7A Ref / Nurhayat Sakar', start: '2019-04-16T09:00:00',  end: '2019-04-16T11:00:00', resourceId: 'C-MEETROOM'   },
