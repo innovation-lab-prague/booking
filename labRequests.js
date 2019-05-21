@@ -139,6 +139,7 @@ var labEvents = [
   { title: 'Labor Union Meeting / Adam R.',  start: '2019-04-25T15:00:00', end: '2019-04-25T16:30:00',   resourceId: 'C-MEETROOM' },
   { title: 'RPA Meeting / Tomas B.',  start: '2019-04-25T12:30:00', end: '2019-04-25T13:30:00',   resourceId: 'C-MEETROOM' },
   { title: 'DT Services / Martin S.', start: '2019-05-02T10:00:00', end: '2019-05-02T11:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Service Work / Stan.', start: '2019-05-21T10:00:00', end: '2019-05-21T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7A Customer meeting / Pavol Lacko', start: '2019-05-22T08:00:00',  end: '2019-05-23T17:30:00', resourceId: 'C-MEETROOM'   },
   { title: 'BigEngine training / Frantisek H.', start: '2019-05-28T10:00:00', end: '2019-05-28T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'BigEngine training / Frantisek H.', start: '2019-05-29T10:00:00', end: '2019-05-29T14:30:00', resourceId: 'C-MEETROOM' },
