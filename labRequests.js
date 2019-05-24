@@ -153,5 +153,5 @@ var labEvents = [
   { title: 'IFS IT Prague Team Meeting / Christian P.', start: '2019-05-22T15:00:00', end: '2019-05-22T16:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'DBP Workshop / Stan S.', start: '2019-07-03T09:00:00', end: '2019-07-04T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'CashMIR Workshop', start: '2019-05-21T14:00:00', end: '2019-05-21T16:00:00', resourceId: 'C-MEETROOM'},
-  { title: 'Annual Meeting / Kristina F.', start: '2019-05-24', end: '2019-05-25', resourceId: 'B-LONGTABLE'} 
+  { title: 'Farewell Event for Tomas Ch. / Stan S.', start: '2019-05-24T14:00:00', end: '2019-05-24T15:30:00', resourceId: 'B-LONGTABLE'}
 ]
