@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-06-04T14:30:00', end: '2019-06-04T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Backlog Cleaning / Ondrej V.', start: '2019-05-31T10:00:00', end: '2019-05-31T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7A UI Change Ref / Nurhayat S.', start: '2019-05-20T09:00:00', end: '2019-05-20T13:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Energy BizOps Review / Alex T.', start: '2019-05-20T14:00:00', end: '2019-05-20T16:00:00', resourceId: 'C-MEETROOM' },
