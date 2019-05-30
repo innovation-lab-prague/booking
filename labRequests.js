@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Energy BizOps Team Review', start: '2019-06-10T13:00:00', end: '2019-06-04T14:30:00', resourceId: 'C-MEETROOM' },
   { title: 'TKP Meeting / Jana B.', start: '2019-06-04T10:00:00', end: '2019-06-04T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'TKP Meeting / Jana B.', start: '2019-06-05T10:00:00', end: '2019-06-05T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'TKP Meeting / Jana B.', start: '2019-06-06T10:00:00', end: '2019-06-06T12:00:00', resourceId: 'C-MEETROOM' },
