@@ -137,6 +137,7 @@ var labEvents = [
   { title: 'Core Business Training / Kamila L.', start: '2019-06-19', end: '2019-06-22', resourceId: 'B-LONGTABLE' },
   { title: 'Phils Sales Presentation / Phil B.', start: '2019-06-24T16:30:00', end: '2019-06-24T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'COP OPS Meeting / Misa C.', start: '2019-06-25T14:00:00', end: '2019-06-25T15:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'RRH Dev Team PRG - team event / Frantisek H.', start: '2019-06-25T15:00:00', end: '2019-06-25T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Training Preparation / Compliance / Jana A.',  start: '2019-01-17T11:00:00', end: '2019-01-17T14:00:00',   resourceId: 'C-MEETROOM' },
   { title: 'RRH Conf call with service provider / Frantisek H.',  start: '2019-01-17T14:00:00', end: '2019-01-17T14:45:00',   resourceId: 'C-MEETROOM' },
   { title: 'Labor Union Meeting / Adam R.',  start: '2019-01-17T16:00:00', end: '2019-01-17T17:30:00',   resourceId: 'B-LONGTABLE' },
