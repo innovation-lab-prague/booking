@@ -1,5 +1,5 @@
 var labEvents = [
-  { title: 'Energy Operational Model', start: '2019-06-11T13:00:00', end: '2019-06-04T15:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Energy Operational Model', start: '2019-06-11T13:00:00', end: '2019-06-11T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Cloud Update / Melinda R.',  start: '2019-06-25T10:00:00',  end  : '2019-06-25T11:00:00',  resourceId: 'B-LONGTABLE'},
   { title: 'Stoxx Break-Fast / Elena S.', start: '2019-06-11T07:00:00', end: '2019-06-11T11:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Security Meeting / Zdenek V.', start: '2019-06-05T11:00:00', end: '2019-06-05T15:00:00', resourceId: 'B-LONGTABLE' },
