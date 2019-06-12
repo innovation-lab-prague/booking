@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'RPA Training / Lorena N.', start: '2019-07-01T09:0:00', end: '2019-07-02T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'XBID Scrum Ceremonies - Review, Retrospective, Planning', start: '2019-06-13T9:30:00', end: '2019-06-13T11:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'KAM Handover + Ticketing', start: '2019-06-13T10:00:00', end: '2019-06-13T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'KAM Handover + Ticketing', start: '2019-06-12T13:30:00', end: '2019-06-12T15:30:00', resourceId: 'C-MEETROOM' },
@@ -17,7 +18,7 @@ var labEvents = [
   { title: 'Customer Service Training / Jana B.', start: '2019-06-19T14:00:00', end: '2019-06-19T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Customer Service Training / Jana B.', start: '2019-06-20T10:00:00', end: '2019-06-20T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Customer Service Training / Jana B.', start: '2019-06-20T14:00:00', end: '2019-06-20T16:00:00', resourceId: 'C-MEETROOM' },
-  { title: 'Customer Service Training / Jana B.', start: '2019-06-21T08:00:00', end: '2019-06-20T12:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Customer Service Training / Jana B.', start: '2019-06-21T08:00:00', end: '2019-06-21T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-06-04T14:30:00', end: '2019-06-04T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Backlog Cleaning / Ondrej V.', start: '2019-05-31T10:00:00', end: '2019-05-31T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7A UI Change Ref / Nurhayat S.', start: '2019-05-20T09:00:00', end: '2019-05-20T13:30:00', resourceId: 'C-MEETROOM' },
