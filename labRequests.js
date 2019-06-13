@@ -139,7 +139,7 @@ var labEvents = [
   { title: 'T2S Prague / Misa/Kamila', start: '2019-06-26T10:00:00', end: '2019-06-27T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Farewell Presentation / Petr P.', start: '2019-01-29T15:30:00', end: '2019-01-29T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'IFS IT Section Meeting / Christian P.', start: '2019-01-21T14:00:00', end: '2019-01-21T15:30:00', resourceId: 'B-LONGTABLE' },
-  { title: 'COP MNG Meeting / Misa C.', start: '2019-06-18T14:00:00', end: '2019-06-18T15:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'COP MNG Meeting / Misa C.', start: '2019-06-18T13:00:00', end: '2019-06-18T14:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Risk Meeting / Kamila L.', start: '2019-06-06T11:00:00', end: '2019-06-06T12:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Core Business Training / Kamila L.', start: '2019-06-19', end: '2019-06-22', resourceId: 'B-LONGTABLE' },
   { title: 'Phils Sales Presentation / Phil B.', start: '2019-06-24T16:30:00', end: '2019-06-24T18:00:00', resourceId: 'B-LONGTABLE' },
