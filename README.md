@@ -1,4 +1,4 @@
-**Important Notes**:
+# Important Notes
 
 - Booking is cancelled is you don't come within 10 minutes after start of Your booking! 
 - In case booking extends outside of business hours, You need to create ticket for extra Cleaning http://sappip.deutsche-boerse.de/irj/portal/FM
