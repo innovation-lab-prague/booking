@@ -1,4 +1,5 @@
 var labEvents = [
+   { title: 'CTS - interview/ Jana B.', start: '2019-06-19T13:00:00', end: '2019-06-19T14:00:00', resourceId: 'C-MEETROOM' },
   { title: 'STOXX Index Ops Leadership Training / Jason C.', start: '2019-08-07T09:00:00', end: '2019-08-08T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'RPA Training / Lorena N.', start: '2019-07-08T09:00:00', end: '2019-07-09T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'XBID Scrum Ceremonies - Review, Retrospective, Planning', start: '2019-06-13T09:30:00', end: '2019-06-13T11:00:00', resourceId: 'C-MEETROOM' },
