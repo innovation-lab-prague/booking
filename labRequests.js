@@ -1,5 +1,5 @@
 var labEvents = [
-  { title: 'AWS Training / Stan S.', start: '2019-06-24T09:30:00', end: '2019-06-24T16:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'AWS Training / Stan S.', start: '2019-06-24T09:30:00', end: '2019-06-25T16:30:00', resourceId: 'C-MEETROOM' },
   { title: 'BE CoP / Zuzka T.', start: '2019-06-20T14:30:00', end: '2019-06-20T15:30:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'TKP Meeting / Jana B.', start: '2019-06-20T13:00:00', end: '2019-06-20T14:00:00', resourceId: 'C-MEETROOM' },
   { title: 'CTS - interview/ Jana B.', start: '2019-06-19T13:00:00', end: '2019-06-19T14:00:00', resourceId: 'C-MEETROOM' },
