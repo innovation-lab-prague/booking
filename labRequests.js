@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-07-02T14:30:00', end: '2019-07-02T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Idea Exchange / Adela P.', start: '2019-08-29T11:00:00', end: '2019-08-29T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Idea Exchange / Adela P.', start: '2019-07-25T11:00:00', end: '2019-07-25T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'DBG AWS Training Day 1 / Stan S.', start: '2019-06-24T09:00:00', end: '2019-06-24T17:00:00', resourceId: 'C-MEETROOM' },
