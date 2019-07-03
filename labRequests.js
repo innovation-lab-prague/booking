@@ -1,4 +1,6 @@
 var labEvents = [
+  { title: 'CorpSys Leadership / Valentina L.', start: '2019-09-03T08:00:00', end: '2019-09-03T18:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'CorpSys Leadership / Valentina L.', start: '2019-09-04T08:00:00', end: '2019-09-04T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: '<Break IT!> / Michaela', start: '2019-07-23T08:00:00',  end  : '2019-07-23T18:00:00', resourceId: 'C-MEETROOM'},
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-07-02T14:30:00', end: '2019-07-02T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Idea Exchange / Adela P.', start: '2019-08-29T11:00:00', end: '2019-08-29T12:00:00', resourceId: 'B-LONGTABLE' },
