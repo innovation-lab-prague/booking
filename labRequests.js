@@ -191,5 +191,7 @@ var labEvents = [
   { title: 'CashMIR Workshop', start: '2019-05-21T14:00:00', end: '2019-05-21T16:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Farewell Event for Tomas Ch. / Stan S.', start: '2019-05-24T14:00:00', end: '2019-05-24T15:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'Risk IT RDS/GUI / Dirk K.', start: '2019-06-05T15:00:00', end: '2019-06-05T16:30:00', resourceId: 'B-LONGTABLE' },
-  { title: 'IFS IT Section Meeting / Christian P.', start: '2019-07-09T10:30:00', end: '2019-07-09T11:30:00', resourceId: 'B-LONGTABLE'}
+  { title: 'IFS IT Section Meeting / Christian P.', start: '2019-07-09T10:30:00', end: '2019-07-09T11:30:00', resourceId: 'B-LONGTABLE'},
+  { resourceId: 'C-MEETING', title: 'DB WH4B Workshops / Vojtech F.', start: '2018-07-17T08:00:00', end: '2018-07-17T17:00:00'},
+  { resourceId: 'C-MEETING', title: 'DB WH4B Workshops / Vojtech F.', start: '2018-07-18T08:00:00', end: '2018-07-18T17:00:00'}
 ]
