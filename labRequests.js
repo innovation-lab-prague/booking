@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'CTS - newhire training/ Jaroslav N.', start: '2019-07-15T13:00:00', end: '2019-07-15T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Mgmt Meeting / Kamila L.', start: '2019-09-10T14:00:00', end: '2019-09-10T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'CorpSys Leadership / Valentina L.', start: '2019-09-03T08:00:00', end: '2019-09-03T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'CorpSys Leadership / Valentina L.', start: '2019-09-04T08:00:00', end: '2019-09-04T15:00:00', resourceId: 'B-LONGTABLE' },
