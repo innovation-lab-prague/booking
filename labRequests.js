@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Repair Works / Stan S.', start: '2018-07-19T10:00:00', end: '2018-07-19T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-07-30T14:30:00', end: '2019-07-30T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Bundesbank Presentation / Eliska F.', start: '2019-07-18T09:30:00', end: '2019-07-18T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'CTS - newhire training/ Jaroslav N.', start: '2019-07-15T13:00:00', end: '2019-07-15T17:00:00', resourceId: 'C-MEETROOM' },
@@ -195,6 +196,6 @@ var labEvents = [
   { title: 'Farewell Event for Tomas Ch. / Stan S.', start: '2019-05-24T14:00:00', end: '2019-05-24T15:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'Risk IT RDS/GUI / Dirk K.', start: '2019-06-05T15:00:00', end: '2019-06-05T16:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'IFS IT Section Meeting / Christian P.', start: '2019-07-09T10:30:00', end: '2019-07-09T11:30:00', resourceId: 'B-LONGTABLE'},
-  { resourceId: 'C-MEETROOM', title: 'DB WH4B Workshops / Vojtech F.', start: '2018-07-17T08:00:00', end: '2018-07-17T17:00:00'},
-  { resourceId: 'C-MEETROOM', title: 'DB WH4B Workshops / Vojtech F.', start: '2018-07-18T08:00:00', end: '2018-07-18T17:00:00'}
+  { title: 'DB WH4B Workshops / Vojtech F.', start: '2019-07-17T08:00:00', end: '2019-07-17T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'DB WH4B Workshops / Vojtech F.', start: '2019-07-18T08:00:00', end: '2019-07-18T17:00:00', resourceId: 'C-MEETROOM' }
 ]
