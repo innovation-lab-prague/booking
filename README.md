@@ -45,7 +45,7 @@ specify start and end time. In case you'll end after 6 PM, raise a ticket to FM 
 
 Example:
 ```
-  { resourceId: 'C-MEETING', title: 'Workshop + VC / Stan.', start: '2018-06-04T08:00:00', end: '2018-06-04T17:00:00'}
+  { resourceId: 'C-MEETROOM', title: 'Workshop + VC / Stan.', start: '2018-06-04T08:00:00', end: '2018-06-04T17:00:00'}
 ```
 
 
