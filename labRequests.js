@@ -1,4 +1,6 @@
 var labEvents = [
+  { title: 'Training G-KAM /JanaB', start: '2019-07-25T09:30:00', end: '2019-07-25T11:30:00', resourceId: 'C-MEETROOM'},
+  { title: 'Training G-KAM /JanaB', start: '2019-07-24T09:30:00', end: '2019-07-24T11:30:00', resourceId: 'C-MEETROOM'},
   { title: 'Welcome Day / HR', start: '2019-08-01T12:00:00', end: '2019-08-01T16:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Meeting with Dmitryj S. / Martina B.', start: '2019-07-24T10:00:00', end: '2019-07-24T12:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'Repair Works / Stan S.', start: '2019-07-19T10:00:00', end: '2019-07-19T12:00:00', resourceId: 'C-MEETROOM' },
