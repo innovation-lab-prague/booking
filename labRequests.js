@@ -5,7 +5,6 @@ var labEvents = [
   { title: 'Meeting with Dmitryj S. / Martina B.', start: '2019-07-24T10:00:00', end: '2019-07-24T12:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'Repair Works / Stan S.', start: '2019-07-19T10:00:00', end: '2019-07-19T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-07-30T14:30:00', end: '2019-07-30T15:30:00', resourceId: 'C-MEETROOM' },
-  { title: 'Bundesbank Presentation / Eliska F.', start: '2019-07-18T09:30:00', end: '2019-07-18T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'CTS - newhire training/ Jaroslav N.', start: '2019-07-15T13:00:00', end: '2019-07-15T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Mgmt Meeting / Kamila L.', start: '2019-09-10T14:00:00', end: '2019-09-10T15:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'CorpSys Leadership / Valentina L.', start: '2019-09-03T08:00:00', end: '2019-09-03T18:00:00', resourceId: 'B-LONGTABLE' },
