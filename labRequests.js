@@ -190,6 +190,7 @@ var labEvents = [
   { title: 'Welcome Day / Tom W.', start: '2019-07-01T12:30:00', end: '2019-07-01T16:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-11T16:00:00', end: '2019-07-11T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-25T16:00:00', end: '2019-07-25T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Assesment Center / Petr P.', start: '2019-07-26T13:00:00', end: '2019-07-26T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Welcome Day / Tom W.', start: '2019-08-05T12:30:00', end: '2019-08-05T16:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-08T16:00:00', end: '2019-08-08T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-22T16:00:00', end: '2019-08-22T17:00:00', resourceId: 'B-LONGTABLE' },
