@@ -20,6 +20,8 @@ var labEvents = [
   { title: 'TKP Meeting / Jana B.', start: '2019-06-20T13:00:00', end: '2019-06-20T14:00:00', resourceId: 'C-MEETROOM' },
   { title: 'CTS - interview/ Jana B.', start: '2019-06-19T13:00:00', end: '2019-06-19T14:00:00', resourceId: 'C-MEETROOM' },
   { title: 'STOXX Index Ops Leadership Training / Jason C.', start: '2019-08-07T09:00:00', end: '2019-08-08T18:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Agile Workshop / Frank J.', start: '2019-08-07T09:00:00', end: '2019-08-08T18:00:00', resourceId: 'A-ROUNDTABLE' },
+  { title: 'Agile Workshop / Frank J.', start: '2019-08-07T09:00:00', end: '2019-08-08T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'RPA Training / Lorena N.', start: '2019-07-08T09:00:00', end: '2019-07-09T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'XBID Scrum Ceremonies - Review, Retrospective, Planning', start: '2019-06-13T09:30:00', end: '2019-06-13T11:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Energy Operational Model', start: '2019-06-11T13:00:00', end: '2019-06-11T15:00:00', resourceId: 'C-MEETROOM' },
