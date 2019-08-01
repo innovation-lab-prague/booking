@@ -206,5 +206,6 @@ var labEvents = [
   { title: 'DB WH4B Workshops / Vojtech F.', start: '2019-07-17T08:00:00', end: '2019-07-17T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'DB WH4B Workshops / Vojtech F.', start: '2019-07-18T08:00:00', end: '2019-07-18T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Executive Lean Yellow Belt / Bianca T.', start: '2019-08-23T08:00:00', end: '2019-08-23T18:00:00', resourceId: 'B-LONGTABLE'},
-  { title: 'Executive Lean Yellow Belt / Bianca T.', start: '2019-08-23T08:00:00', end: '2019-08-23T18:00:00', resourceId: 'A-ROUNDTABLE'}
-]
+  { title: 'Executive Lean Yellow Belt / Bianca T.', start: '2019-08-23T08:00:00', end: '2019-08-23T18:00:00', resourceId: 'A-ROUNDTABLE'},
+  { title: 'Energy Training Days/ Michaela Predmore', start: '2019-09-03T08:00:00', end: '2019-09-04T18:00:00', resourceId: 'C-MEETROOM'}
+  ]
