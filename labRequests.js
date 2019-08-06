@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-08-13T14:30:00', end: '2019-08-13T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'First Aid Training / Bara S.', start: '2019-09-10T08:30:00', end: '2019-09-10T18:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'First Aid Training / Bara S.', start: '2019-10-21T08:30:00', end: '2019-10-21T18:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'Training TKAM /Jaroslav N.', start: '2019-08-02T09:00:00', end: '2019-08-02T12:00:00', resourceId: 'C-MEETROOM'},
