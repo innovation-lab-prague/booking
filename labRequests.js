@@ -196,7 +196,6 @@ var labEvents = [
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-11T16:00:00', end: '2019-07-11T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-07-25T16:00:00', end: '2019-07-25T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Assesment Center / Petr P.', start: '2019-07-26T13:00:00', end: '2019-07-26T15:00:00', resourceId: 'C-MEETROOM' },
-  { title: 'HR Conference / Ondrej H.', start: '2019-08-06T10:00:00', end: '2019-08-06T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-08T16:00:00', end: '2019-08-08T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Toastmasters Public Speaking / David M.', start: '2019-08-22T16:00:00', end: '2019-08-22T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Day / Tom W.', start: '2019-09-02T12:30:00', end: '2019-09-02T16:30:00', resourceId: 'B-LONGTABLE' },
