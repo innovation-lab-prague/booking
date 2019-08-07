@@ -1,4 +1,7 @@
 var labEvents = [
+  { title: 'PO MeetUp  / Ondrej V.', start: '2019-08-26T15:00:00', end: '2019-08-26T19:30:00', resourceId: 'B-LONGTABLE' },
+  { title: 'PO MeetUp  / Ondrej V.', start: '2019-08-26T15:00:00', end: '2019-08-26T19:30:00', resourceId: 'A-ROUNDTABLE' },
+  { title: 'PO MeetUp  / Ondrej V.', start: '2019-08-26T15:00:00', end: '2019-08-26T19:30:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-08-13T14:30:00', end: '2019-08-13T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'First Aid Training / Bara S.', start: '2019-09-10T08:30:00', end: '2019-09-10T18:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'First Aid Training / Bara S.', start: '2019-10-21T08:30:00', end: '2019-10-21T18:30:00', resourceId: 'B-LONGTABLE'},
