@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Test  / Stan.', start: '2019-08-26T15:00:00', end: '2019-08-26T19:30:00', resourceId: 'B-LONGTABLE' },  
   { title: 'PO MeetUp  / Ondrej V.', start: '2019-08-26T15:00:00', end: '2019-08-26T19:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'PO MeetUp  / Ondrej V.', start: '2019-08-26T15:00:00', end: '2019-08-26T19:30:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'PO MeetUp  / Ondrej V.', start: '2019-08-26T15:00:00', end: '2019-08-26T19:30:00', resourceId: 'C-MEETROOM' },
