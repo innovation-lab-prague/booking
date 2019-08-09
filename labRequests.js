@@ -219,5 +219,7 @@ var labEvents = [
   { title: 'Energy Training Days/ Michaela Predmore', start: '2019-09-03T08:00:00', end: '2019-09-04T18:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Investment Funds Business Concepts / Christian P.', start: '2019-08-12T14:00:00', end: '2019-08-12T16:00:00', resourceId: 'B-LONGTABLE'},  
   { title: 'Vestima Specifics / Christian P.', start: '2019-08-13T14:00:00', end: '2019-08-13T16:00:00', resourceId: 'B-LONGTABLE'},  
-  { title: 'Project governance, SUMMIT, and Clearstream IT landscape / Christian P.', start: '2019-08-15T14:00:00', end: '2019-08-15T16:00:00', resourceId: 'B-LONGTABLE'}  
-  ]
+  { title: 'Project governance, SUMMIT, and Clearstream IT landscape / Christian P.', start: '2019-08-15T14:00:00', end: '2019-08-15T16:00:00', resourceId: 'B-LONGTABLE'}, 
+  { title: 'Test', start: '2019-08-15T14:00:00', end: '2019-08-15T16:00:00', resourceId: 'B-LONGTABLE'} 
+
+]
