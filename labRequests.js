@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'SP - CRE Data - Meeting / JanaB', start: '2019-08-13T11:00:00',  end  : '2019-08-13T13:00:00', resourceId: 'C-MEETROOM'},
   { title: 'C.Bohm Coffee Corner  / Stan S.', start: '2019-08-15T09:30:00', end: '2019-08-15T11:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'C.Bohm Coffee Corner  / Stan S.', start: '2019-08-15T09:30:00', end: '2019-08-15T11:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'PO MeetUp  / Ondrej V.', start: '2019-08-26T15:00:00', end: '2019-08-26T19:30:00', resourceId: 'B-LONGTABLE' },
