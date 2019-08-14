@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'SAP CRM7 - Training / JaroslavN', start: '2019-08-14T14:00:00',  end  : '2019-08-14T16:00:00', resourceId: 'C-MEETROOM'}
   { title: 'SP - CRE Data - Meeting / JanaB', start: '2019-08-13T11:00:00',  end  : '2019-08-13T13:00:00', resourceId: 'C-MEETROOM'},
   { title: 'C.Bohm Coffee Corner  / Stan S.', start: '2019-08-15T09:30:00', end: '2019-08-15T11:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'C.Bohm Coffee Corner  / Stan S.', start: '2019-08-15T09:30:00', end: '2019-08-15T11:00:00', resourceId: 'B-LONGTABLE' },
