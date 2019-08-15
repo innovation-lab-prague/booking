@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Case Training / Leonardo V.', start: '2019-09-15T14:00:00', end: '2019-09-15T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'DevOps Futures', start: '2019-08-21T10:30:00',  end  : '2019-08-21T12:30:00', resourceId: 'C-MEETROOM'},
   { title: 'SAP CRM7 - Training / JaroslavN', start: '2019-08-14T14:00:00',  end  : '2019-08-14T16:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Case Training / Leonardo V.', start: '2019-09-15T10:00:00', end: '2019-09-15T12:00:00', resourceId: 'C-MEETROOM' },
