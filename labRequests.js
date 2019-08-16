@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: '10Y With COP / Kamila L.', start: '2019-11-27T16:00:00',  end  : '2019-11-27T22:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Training / Magdalena M.', start: '2019-09-05T09:00:00',  end  : '2019-09-05T17:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'Training / Magdalena M.', start: '2019-09-06T09:00:00',  end  : '2019-09-06T17:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'T7 GUI - Training / JaroslavN', start: '2019-08-22T09:00:00',  end  : '2019-08-22T15:00:00', resourceId: 'C-MEETROOM'},
