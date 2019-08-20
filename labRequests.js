@@ -228,6 +228,7 @@ var labEvents = [
   { title: 'DB WH4B Workshops / Vojtech F.', start: '2019-07-17T08:00:00', end: '2019-07-17T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'DB WH4B Workshops / Vojtech F.', start: '2019-07-18T08:00:00', end: '2019-07-18T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'RRH Delivery / Frantisek H.', start: '2019-08-14T10:00:00', end: '2019-08-14T11:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'Assessment Center / Alex Komendova', start: '2019-08-21T15:30:00', end: '2019-08-21T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Executive Lean Yellow Belt / Bianca T.', start: '2019-08-23T08:00:00', end: '2019-08-23T18:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Executive Lean Yellow Belt / Bianca T.', start: '2019-08-23T08:00:00', end: '2019-08-23T18:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2019-09-02T12:00:00', end: '2019-09-02T16:00:00', resourceId: 'B-LONGTABLE'},
