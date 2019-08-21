@@ -1,5 +1,5 @@
 var labEvents = [
-  { title: 'Clearing and Risk IT Dept. Workshop / K. Vlasimska', start: '2019-09-17T10:00:00',  end  : '2019-09-17T12:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'Clearing and Risk IT Dept. Workshop / Katerina V.', start: '2019-09-17T10:00:00',  end  : '2019-09-17T12:00:00', resourceId: 'B-LONGTABLE'},
   { title: '10Y With COP / Kamila L.', start: '2019-11-27T16:00:00',  end  : '2019-11-27T22:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: '10Y With COP / Kamila L.', start: '2019-11-27T16:00:00',  end  : '2019-11-27T22:00:00', resourceId: 'B-LONGTABLE'},
   { title: '10Y With COP / Kamila L.', start: '2019-11-27T16:00:00',  end  : '2019-11-27T22:00:00', resourceId: 'C-MEETROOM'},  
