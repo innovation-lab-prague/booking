@@ -239,5 +239,6 @@ var labEvents = [
   { title: 'Investment Funds Business Concepts / Christian P.', start: '2019-08-12T14:00:00', end: '2019-08-12T16:00:00', resourceId: 'B-LONGTABLE'},  
   { title: 'Vestima Specifics / Christian P.', start: '2019-08-13T14:00:00', end: '2019-08-13T16:00:00', resourceId: 'B-LONGTABLE'},  
   { title: 'Project governance, SUMMIT, and Clearstream IT landscape / Christian P.', start: '2019-08-15T14:00:00', end: '2019-08-15T16:00:00', resourceId: 'B-LONGTABLE'},
-  { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'}
+  { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'Auction Refinement / Pavol Lacko', start: '2019-08-27T13:30:00', end: '2019-08-27T14:30:00', resourceId: 'C-MEETROOM'}
   ]
