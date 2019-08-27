@@ -240,6 +240,8 @@ var labEvents = [
   { title: 'Investment Funds Business Concepts / Christian P.', start: '2019-08-12T14:00:00', end: '2019-08-12T16:00:00', resourceId: 'B-LONGTABLE'},  
   { title: 'Vestima Specifics / Christian P.', start: '2019-08-13T14:00:00', end: '2019-08-13T16:00:00', resourceId: 'B-LONGTABLE'},  
   { title: 'Project governance, SUMMIT, and Clearstream IT landscape / Christian P.', start: '2019-08-15T14:00:00', end: '2019-08-15T16:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-09-05T16:00:00', end: '2019-09-05T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-09-19T16:00:00', end: '2019-09-19T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Auction Refinement / Pavol L.', start: '2019-08-27T13:30:00', end: '2019-08-27T14:30:00', resourceId: 'C-MEETROOM'},
   { title: 'EPEX Workshop / Veronika R.', start: '2019-09-16', end: '2019-09-17', resourceId: 'C-MEETROOM' },
@@ -247,5 +249,11 @@ var labEvents = [
   { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-23T14:00:00', end: '2019-09-23T15:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-24T10:00:00', end: '2019-09-24T11:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-24T10:00:00', end: '2019-09-24T11:00:00', resourceId: 'A-ROUNDTABLE'},
-  { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'}
+  { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-10-03T16:00:00', end: '2019-10-03T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-10-17T16:00:00', end: '2019-10-17T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-10-31T16:00:00', end: '2019-10-31T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-11-14T16:00:00', end: '2019-11-14T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-11-28T16:00:00', end: '2019-11-28T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-12-12T16:00:00', end: '2019-12-12T17:00:00', resourceId: 'B-LONGTABLE' }
   ]
