@@ -241,4 +241,9 @@ var labEvents = [
   { title: 'Project governance, SUMMIT, and Clearstream IT landscape / Christian P.', start: '2019-08-15T14:00:00', end: '2019-08-15T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'EPEX Workshop / Veronika R.', start: '2019-09-16', end: '2019-09-17', resourceId: 'C-MEETROOM' },
+  { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-23T14:00:00', end: '2019-09-23T15:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-23T14:00:00', end: '2019-09-23T15:00:00', resourceId: 'A-ROUNDTABLE'},
+  { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-24T10:00:00', end: '2019-09-24T11:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-24T10:00:00', end: '2019-09-24T11:00:00', resourceId: 'A-ROUNDTABLE'},
+  { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'}
   ]
