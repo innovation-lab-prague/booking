@@ -235,6 +235,7 @@ var labEvents = [
   { title: 'Assessment Center / Alex K.', start: '2019-08-21T15:30:00', end: '2019-08-21T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Executive Lean Yellow Belt / Bianca T.', start: '2019-08-23T08:00:00', end: '2019-08-23T18:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Executive Lean Yellow Belt / Bianca T.', start: '2019-08-23T08:00:00', end: '2019-08-23T18:00:00', resourceId: 'A-ROUNDTABLE'},
+  { title: 'Data IT townhall / Frantisek H.',    start: '2019-08-28T09:45:00',  end: '2019-08-28T11:15:00', resourceId: 'C-MEETROOM'   },
   { title: 'RDS - discuss regarding the new architecture',    start: '2019-08-28T13:30:00',  end: '2019-08-28T15:00:00', resourceId: 'C-MEETROOM'   },
   { title: 'Welcome Day / Tom W.', start: '2019-09-02T12:00:00', end: '2019-09-02T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Energy Training Days/ Michaela Predmore', start: '2019-09-03T08:00:00', end: '2019-09-04T18:00:00', resourceId: 'C-MEETROOM'},
