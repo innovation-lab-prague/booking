@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'XBID Refinement / Jiri V.', start: '2019-09-05T10:00:00',  end  : '2019-09-05T11:00:00', resourceId: 'C-MEETROOM'},
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-09-10T14:30:00', end: '2019-09-10T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Executive Lean Yellow Belt / Bianca T.', start: '2019-08-23T08:00:00', end: '2019-08-23T18:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Clearing and Risk IT Dept. Workshop / Katerina V.', start: '2019-09-17T10:00:00',  end  : '2019-09-17T12:00:00', resourceId: 'B-LONGTABLE'},
