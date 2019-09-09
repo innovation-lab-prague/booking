@@ -244,7 +244,7 @@ var labEvents = [
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-09-19T16:00:00', end: '2019-09-19T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Auction Refinement / Pavol L.', start: '2019-08-27T13:30:00', end: '2019-08-27T14:30:00', resourceId: 'C-MEETROOM'},
-  { title: 'EPEX Workshop / Veronika R.', start: '2019-09-16', end: '2019-09-17', resourceId: 'C-MEETROOM' },
+  { title: 'EPEX Workshop / Veronika R.', start: '2019-09-16', end: '2019-09-18', resourceId: 'C-MEETROOM' },
   { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-23T14:00:00', end: '2019-09-23T15:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-23T14:00:00', end: '2019-09-23T15:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: 'Roadshow Digital Learning / Sven G.', start: '2019-09-24T10:00:00', end: '2019-09-24T11:00:00', resourceId: 'B-LONGTABLE'},
