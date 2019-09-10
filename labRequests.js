@@ -7,7 +7,7 @@ var labEvents = [
   { title: '10Y With COP / Kamila L.', start: '2019-11-06T16:00:00',  end  : '2019-11-06T22:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: '10Y With COP / Kamila L.', start: '2019-11-06T16:00:00',  end  : '2019-11-06T22:00:00', resourceId: 'B-LONGTABLE'},
   { title: '10Y With COP / Kamila L.', start: '2019-11-06T16:00:00',  end  : '2019-11-06T22:00:00', resourceId: 'C-MEETROOM'},  
-  { title: 'Training / Magdalena M.', start: '2019-09-18T09:00:00',  end  : '2019-09-18T17:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'Training / Magdalena M.', start: '2019-09-19T09:00:00',  end  : '2019-09-19T17:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'T7 GUI - Training / JaroslavN', start: '2019-08-22T09:00:00',  end  : '2019-08-22T15:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Case Training / Leonardo V.', start: '2019-09-15T14:00:00', end: '2019-09-15T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'DevOps Futures', start: '2019-08-21T10:30:00',  end  : '2019-08-21T12:30:00', resourceId: 'C-MEETROOM'},
