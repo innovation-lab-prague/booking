@@ -23,6 +23,8 @@ var labEvents = [
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-08-13T14:30:00', end: '2019-08-13T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'First Aid Training / Bara S.', start: '2019-09-10T08:30:00', end: '2019-09-10T18:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'RiskIT Townhall Meeting / Adriana M.', start: '2019-09-11T09:00:00', end: '2019-09-11T11:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'CISOCON / Guilhem C.', start: '2019-09-11T09:00:00', end: '2019-09-11T17:00:00', resourceId: 'C-MEETROOM'},
+  { title: 'CISOCON / Guilhem C.', start: '2019-09-12T09:00:00', end: '2019-09-12T17:00:00', resourceId: 'C-MEETROOM'},
   { title: 'First Aid Training / Bara S.', start: '2019-10-21T08:30:00', end: '2019-10-21T18:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'Training TKAM /Jaroslav N.', start: '2019-08-02T09:00:00', end: '2019-08-02T12:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Training G-KAM /JanaB', start: '2019-07-25T09:30:00', end: '2019-07-25T11:30:00', resourceId: 'C-MEETROOM'},
