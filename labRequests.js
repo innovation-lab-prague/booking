@@ -1,5 +1,5 @@
 var labEvents = [
-  { title: 'VPS - TKAM Training / Jaroslav N', start: '2019-09-27T13:00:00',  end  : '2019-09-27T15:00:00', resourceId: 'C-MEETROOM'},
+  { title: 'VPS - TKAM Training / Jaroslav N', start: '2019-09-24T12:00:00',  end  : '2019-09-24T14:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Prague Idea Exchange / Adela P.', start: '2019-10-31T11:00:00', end: '2019-10-31T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Prague Idea Exchange / Adela P.', start: '2019-09-26T11:00:00', end: '2019-09-26T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-09-10T14:30:00', end: '2019-09-10T15:30:00', resourceId: 'C-MEETROOM' },
