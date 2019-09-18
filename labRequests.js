@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Quant Fin Learning Circle  / Juho M.', start: '2019-10-04T09:45:00', end: '2019-10-04T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Energy Open Day  / Ondrej V.', start: '2019-10-23T09:00:00', end: '2019-10-23T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-10-22T14:30:00', end: '2019-10-22T15:30:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-10-08T14:30:00', end: '2019-10-08T15:30:00', resourceId: 'C-MEETROOM' },
