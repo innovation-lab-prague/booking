@@ -1,4 +1,7 @@
 var labEvents = [
+  { title: 'Pride Business Forum Workshop / Lucia K.', start: '2019-10-16T12:00:00', end: '2019-10-16T19:00:00', resourceId: 'A-ROUNDTABLE' },
+  { title: 'Pride Business Forum Workshop / Lucia K.', start: '2019-10-16T12:00:00', end: '2019-10-16T19:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Pride Business Forum Workshop / Lucia K.', start: '2019-10-16T12:00:00', end: '2019-10-16T19:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Quant Fin Learning Circle  / Juho M.', start: '2019-10-04T09:45:00', end: '2019-10-04T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Energy Open Day  / Ondrej V.', start: '2019-10-23T09:00:00', end: '2019-10-23T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'M7T Scrum COP  / Ondrej V.', start: '2019-10-22T14:30:00', end: '2019-10-22T15:30:00', resourceId: 'C-MEETROOM' },
