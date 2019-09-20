@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Cloud Tech Conf / Melinda R.', start: '2019-12-12T08:00:00', end: '2019-12-12T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Pride Business Forum Workshop / Lucia K.', start: '2019-10-16T12:00:00', end: '2019-10-16T19:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'Pride Business Forum Workshop / Lucia K.', start: '2019-10-16T12:00:00', end: '2019-10-16T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Pride Business Forum Workshop / Lucia K.', start: '2019-10-16T12:00:00', end: '2019-10-16T19:00:00', resourceId: 'C-MEETROOM' },
