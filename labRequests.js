@@ -271,5 +271,5 @@ var labEvents = [
   { title: '10 years at DBS / Barbora Stucaur', start: '2019-11-20T16:00:00', end: '2019-11-20T21:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: '10 years at DBS / Barbora Stucaur', start: '2019-11-20T16:00:00', end: '2019-11-20T21:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-11-28T16:00:00', end: '2019-11-28T17:00:00', resourceId: 'B-LONGTABLE' },
-  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-12-12T16:00:00', end: '2019-12-12T17:00:00', resourceId: 'B-LONGTABLE' }
+  { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-12-12T16:00:00', end: '2019-12-12T17:00:00', resourceId: 'C-MEETROOM' }
   ]
