@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'GCP Intro / Vaclav S.', start: '2019-09-26T14:00:00', end: '2019-09-26T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Axioma Workshop / Melinda R.', start: '2019-09-25T09:00:00', end: '2019-09-25T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Cloud Tech Conf / Melinda R.', start: '2019-12-12T08:00:00', end: '2019-12-12T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Pride Business Forum Workshop / Lucia K.', start: '2019-10-16T12:00:00', end: '2019-10-16T19:00:00', resourceId: 'A-ROUNDTABLE' },
