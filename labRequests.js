@@ -1,4 +1,7 @@
 var labEvents = [
+  { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'A-ROUNDTABLE' },    
+  { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'B-LONGTABLE' },  
+  { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'C-MEETROOM' },  
   { title: 'C7 Section Meeting / Katerina V.', start: '2019-10-09T15:00:00', end: '2019-10-09T17:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'GCP Intro / Vaclav S.', start: '2019-09-26T14:00:00', end: '2019-09-26T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Axioma Workshop / Melinda R.', start: '2019-09-25T09:00:00', end: '2019-09-25T16:00:00', resourceId: 'C-MEETROOM' },
