@@ -1,5 +1,4 @@
 var labEvents = [
-  { title: 'STOXX Townhall / Elena S.', start: '2019-10-01T16:00:00', end: '2019-10-01T19:00:00', resourceId: 'A-ROUNDTABLE', 'B-LONGTABLE', 'C-MEETROOM' },    
   { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'A-ROUNDTABLE' },    
   { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'C-MEETROOM' },  
