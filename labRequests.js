@@ -6,7 +6,7 @@ var labEvents = [
   { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'A-ROUNDTABLE' },    
   { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'Blood Donation / Adela K.', start: '2019-10-02T07:30:00', end: '2019-10-02T12:00:00', resourceId: 'C-MEETROOM' }, 
-  { title: 'STOXX/FactSet iStudio Customer Support / Adam S.', start: '2019-10-01T09:00:00', end: '2019-10-01T18:00:00', resourceId: 'A-ROUNDTABLE', 'C-MEETROOM' }, 
+  { title: 'STOXX/FactSet iStudio Customer Support / Adam S.', start: '2019-10-01T09:00:00', end: '2019-10-01T18:00:00', resourceId: 'C-MEETROOM' }, 
   { title: 'HoU Meeting / Helena F.', start: '2019-10-01T10:00:00', end: '2019-10-01T11:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'C7 Section Meeting / Katerina V.', start: '2019-10-09T15:00:00', end: '2019-10-09T17:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'GCP Intro / Vaclav S.', start: '2019-09-26T14:00:00', end: '2019-09-26T16:00:00', resourceId: 'B-LONGTABLE' },
