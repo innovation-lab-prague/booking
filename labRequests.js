@@ -1,4 +1,10 @@
 var labEvents = [
+  { title: 'Process & CL Training/ JanaB', start: '2019-10-25T08:00:00', end: '2019-10-25T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Process & CL Training/ JanaB', start: '2019-10-24T08:00:00', end: '2019-10-24T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Process & CL Training/ JanaB', start: '2019-10-17T08:00:00', end: '2019-10-17T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Process & CL Training/ JanaB', start: '2019-10-16T08:00:00', end: '2019-10-16T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Process & CL Training/ JanaB', start: '2019-10-15T13:00:00', end: '2019-10-15T18:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Process & CL Training/ JanaB', start: '2019-10-14T13:00:00', end: '2019-10-14T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'KPMG Intro Meeting / Misa C.', start: '2019-10-08T10:00:00', end: '2019-10-08T12:00:00', resourceId: 'C-MEETROOM' }, 
   { title: 'CERT/SOC Workshop / Josef S.', start: '2019-11-19T09:00:00', end: '2019-11-19T17:00:00', resourceId: 'B-LONGTABLE' }, 
   { title: 'DBAG/EPEX Steering Committee', start: '2019-11-19T07:30:00', end: '2019-11-19T17:00:00', resourceId: 'C-MEETROOM' }, 
