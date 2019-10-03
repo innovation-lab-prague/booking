@@ -1,4 +1,6 @@
 var labEvents = [
+  { title: 'Stoxx - Qontigo / Elena S.', start: '2019-10-30T07:30:00', end: '2019-10-30T11:00:00', resourceId: 'B-LONGTABLE' },  
+  { title: 'Stoxx - Qontigo / Elena S.', start: '2019-10-29T07:30:00', end: '2019-10-29T11:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Process & CL Training/ JanaB', start: '2019-10-25T08:00:00', end: '2019-10-25T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Process & CL Training/ JanaB', start: '2019-10-24T08:00:00', end: '2019-10-24T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Process & CL Training/ JanaB', start: '2019-10-17T08:00:00', end: '2019-10-17T17:00:00', resourceId: 'C-MEETROOM' },
