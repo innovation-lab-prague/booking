@@ -295,7 +295,6 @@ var labEvents = [
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-11-28T16:00:00', end: '2019-11-28T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Day / Tom W.', start: '2019-12-02T12:00:00', end: '2019-12-02T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-12-12T16:00:00', end: '2019-12-12T17:00:00', resourceId: 'C-MEETROOM' },
-   { title: 'Reference data walk-in / Katerina G.', start: '2019-10-09T14:00:00', end: '2019-10-09T15:00:00', resourceId: 'C-MEETROOM' }
-  ]
+  { title: 'Reference data walk-in / Katerina G.', start: '2019-10-09T14:00:00', end: '2019-10-09T15:00:00', resourceId: 'C-MEETROOM' }
+]
 
-  ]
