@@ -1,4 +1,6 @@
 var labEvents = [
+  { title: 'Board Games Event / Tomas K.', start: '2019-11-13T17:00:00', end: '2019-11-13T22:00:00', resourceId: 'A-ROUNDTABLE' },  
+  { title: 'Board Games Event / Tomas K.', start: '2019-11-13T17:00:00', end: '2019-11-13T22:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'GTS in AWS / Daniel V.', start: '2019-10-09T10:00:00', end: '2019-10-09T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Ceremonies  / Ondrej V.', start: '2019-12-04T09:30:00', end: '2019-12-04T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Stoxx - Qontigo / Elena S.', start: '2019-10-30T07:30:00', end: '2019-10-30T11:00:00', resourceId: 'B-LONGTABLE' },  
