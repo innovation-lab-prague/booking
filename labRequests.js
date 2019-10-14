@@ -8,6 +8,7 @@ var labEvents = [
   { title: 'Process & CL Training/ JanaB', start: '2019-10-24T08:00:00', end: '2019-10-24T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Process & CL Training/ JanaB', start: '2019-10-17T08:00:00', end: '2019-10-17T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'HR Singapor Telco / Vendula S. ', start: '2019-10-16T10:00:00', end: '2019-10-16T11:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'Process & CL Training/ JanaB', start: '2019-10-18T13:00:00', end: '2019-10-18T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Process & CL Training/ JanaB', start: '2019-10-15T13:00:00', end: '2019-10-15T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Process & CL Training/ JanaB', start: '2019-10-14T13:00:00', end: '2019-10-14T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'KPMG Intro Meeting / Misa C.', start: '2019-10-08T10:00:00', end: '2019-10-08T12:00:00', resourceId: 'C-MEETROOM' }, 
