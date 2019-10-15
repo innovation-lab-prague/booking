@@ -1,4 +1,6 @@
 var labEvents = [
+  { title: 'Cloud Tech Conf / Melinda R.', start: '2019-12-13T08:00:00', end: '2019-12-13T14:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Cloud Tech Conf / Melinda R.', start: '2019-12-11T08:00:00', end: '2019-12-11T19:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Board Games Event / Tomas K.', start: '2019-11-13T17:00:00', end: '2019-11-13T22:00:00', resourceId: 'A-ROUNDTABLE' },  
   { title: 'Board Games Event / Tomas K.', start: '2019-11-13T17:00:00', end: '2019-11-13T22:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'GTS in AWS / Daniel V.', start: '2019-10-09T10:00:00', end: '2019-10-09T11:30:00', resourceId: 'C-MEETROOM' },
