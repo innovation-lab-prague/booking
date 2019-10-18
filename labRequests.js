@@ -1,4 +1,4 @@
-var labEvents = [
+{ title: 'IT Asset Servicing - Prague - Get together/Pavla R.', start: '2019-10-24T16:00:00', end: '2019-10-24T18:00:00',resourceId: 'B-LONGTABLE'} 
   { title: 'Member section training/ Stepan N.', start: '2019-10-23T13:00:00', end: '2019-10-23T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Risk IT Townhall / Adriana M.', start: '2019-11-29T09:00:00', end: '2019-11-29T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Cloud Tech Conf / Melinda R.', start: '2019-12-13T08:00:00', end: '2019-12-13T14:00:00', resourceId: 'B-LONGTABLE' },
@@ -304,7 +304,6 @@ var labEvents = [
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-12-12T16:00:00', end: '2019-12-12T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Reference data walk-in / Katerina G.', start: '2019-10-09T14:00:00', end: '2019-10-09T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'IFS 2020 Delivery Plan / Vincent V.', start: '2019-10-15T11:00:00', end: '2019-10-15T12:30:00', resourceId: 'B-LONGTABLE' },
-  { title: 'AWS Expert Walk-in / Guilhem C.', start: '2019-10-22T10:00:00', end: '2019-10-22T13:00:00', resourceId: 'C-MEETROOM' },
-  { title: 'GCP Expert Walk-in / Guilhem C.', start: '2019-10-23T10:30:00', end: '2019-10-23T12:00:00', resourceId: 'C-MEETROOM' }
+  { title: 'AWS Expert Walk-in / Guilhem C.', start: '2019-10-22T10:00:00', end: '2019-10-22T13:00:00', resourceId: 'C-MEETROOM' }
 ]
 
