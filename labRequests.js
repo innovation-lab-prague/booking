@@ -1,4 +1,5 @@
-{ title: 'IT Asset Servicing - Prague - Get together/Pavla R.', start: '2019-10-24T16:00:00', end: '2019-10-24T18:00:00',resourceId: 'B-LONGTABLE'} 
+{ 
+  { title: 'IT Asset Servicing - Prague - Get together/Pavla R.', start: '2019-10-24T16:00:00', end: '2019-10-24T18:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'Member section training/ Stepan N.', start: '2019-10-23T13:00:00', end: '2019-10-23T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Risk IT Townhall / Adriana M.', start: '2019-11-29T09:00:00', end: '2019-11-29T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Cloud Tech Conf / Melinda R.', start: '2019-12-13T08:00:00', end: '2019-12-13T14:00:00', resourceId: 'B-LONGTABLE' },
