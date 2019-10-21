@@ -7,11 +7,15 @@
 
 # Innovation Lab Booking list
 
-Create Your first booking in 4 simple steps:
+Create Your first booking in 8 simple steps:
   1. Login to GitHub with your UserId
   2. Open ```labRequests.js```
-  3. Add line according to Your needs
-  4. Create Pull request
+  3. Click on a **pen symbol** 'top right' to add new request
+  4. Add comma after the last request line if missing and hit ENTER
+  5. Add line according to Your needs
+  6. Add description in `Propose file change`
+  7. Hit on green button `Propose file change`
+  8. On the next page hit `Create Pull request`
 
 You can choose from three areas:
  - A-ROUNDTABLE - The round table meeting area with 8 seats, Sharp SmartScreen 60'
@@ -25,7 +29,7 @@ You can choose from three areas:
    start: '2018-12-24T08:30:00',  
    end  : '2018-12-31T16:30:00', 
    resourceId: <see-above-values>
-} 
+},
 ```
 After commit, the pull request is automatically raised. When approved by authorized user, booking is confirmed and displays in calendar within one minute.
 
@@ -37,7 +41,7 @@ add parameter: ```id``` and set the same id values for event. Please be aware, t
 Example:
 ```
   { id: 999, resourceId: 'A-ROUNDTABLE', title: 'Repeating Event / Stan.', start: '2018-06-09T16:00:00' },
-  { id: 999, resourceId: 'A-ROUNDTABLE', title: 'Repeating Event / Stan.', start: '2018-06-16T16:00:00' }
+  { id: 999, resourceId: 'A-ROUNDTABLE', title: 'Repeating Event / Stan.', start: '2018-06-16T16:00:00' },
 ``` 
 
 ### All Day Event
@@ -45,7 +49,7 @@ specify start and end time. In case you'll end after 6 PM, raise a ticket to FM 
 
 Example:
 ```
-  { resourceId: 'C-MEETROOM', title: 'Workshop + VC / Stan.', start: '2018-06-04T08:00:00', end: '2018-06-04T17:00:00'}
+  { resourceId: 'C-MEETROOM', title: 'Workshop + VC / Stan.', start: '2018-06-04T08:00:00', end: '2018-06-04T17:00:00'},
 ```
 
 
@@ -54,7 +58,7 @@ State first and (last day + 1) without time intervals
 
 Example:
 ```
-  { resourceId: 'B-LONGTABLE', title: 'Innovation Days / Stan.', start: '2018-06-04', end: '2018-06-08' }
+  { resourceId: 'B-LONGTABLE', title: 'Innovation Days / Stan.', start: '2018-06-04', end: '2018-06-08' },
 ```
 
 
