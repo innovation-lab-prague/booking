@@ -305,6 +305,7 @@ var labEvents = [
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-12-12T16:00:00', end: '2019-12-12T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Reference data walk-in / Katerina G.', start: '2019-10-09T14:00:00', end: '2019-10-09T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'IFS 2020 Delivery Plan / Vincent V.', start: '2019-10-15T11:00:00', end: '2019-10-15T12:30:00', resourceId: 'B-LONGTABLE' },
-  { title: 'AWS Expert Walk-in / Guilhem C.', start: '2019-10-22T10:00:00', end: '2019-10-22T13:00:00', resourceId: 'C-MEETROOM' }
+  { title: 'AWS Expert Walk-in / Guilhem C.', start: '2019-10-22T10:00:00', end: '2019-10-22T13:00:00', resourceId: 'C-MEETROOM' },
+  { resourceId: 'C-MEETROOM', title: 'Team Brainstorming', start: '2019-10-29T14:30:00', end: '2019-10-29T16:00:00'}
 ]
 
