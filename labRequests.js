@@ -1,7 +1,7 @@
 var labEvents = [ 
   { title: 'XBID Backlog Refinement / Jiri V.', start: '2019-31-10T10:00:00', end: '2019-31-10T11:00:00',resourceId: 'C-MEETROOM'},
-  { title: 'Waste Sorting Training / Bara S.', start: '2020-22-01T10:30:00', end: '2019-12-03T12:00:00',resourceId: 'B-LONGTABLE'},
-  { title: 'Waste Sorting Training / Bara S.', start: '2020-12-02T10:30:00', end: '2019-12-03T12:00:00',resourceId: 'B-LONGTABLE'},
+  { title: 'Waste Sorting Training / Bara S.', start: '2020-22-01T10:30:00', end: '2019-22-01T12:00:00',resourceId: 'B-LONGTABLE'},
+  { title: 'Waste Sorting Training / Bara S.', start: '2020-12-02T10:30:00', end: '2019-12-02T12:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'COP Event / Kamila L.', start: '2019-12-03T10:30:00', end: '2019-12-03T12:00:00',resourceId: 'A-ROUNDTABLE'},
   { title: 'COP Event / Kamila L.', start: '2019-12-03T10:30:00', end: '2019-12-03T12:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'IT Asset Servicing - Prague - Get together/Pavla R.', start: '2019-10-24T16:00:00', end: '2019-10-24T18:00:00',resourceId: 'B-LONGTABLE'},
