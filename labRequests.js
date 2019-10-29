@@ -312,6 +312,6 @@ var labEvents = [
   { title: 'IFS 2020 Delivery Plan / Vincent V.', start: '2019-10-15T11:00:00', end: '2019-10-15T12:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'AWS Expert Walk-in / Guilhem C.', start: '2019-10-22T10:00:00', end: '2019-10-22T13:00:00', resourceId: 'C-MEETROOM' },
   { resourceId: 'C-MEETROOM', title: 'Team Brainstorming', start: '2019-10-29T14:30:00', end: '2019-10-29T16:00:00'},
-  { title: 'DBSS HoU Meeting / Misa C.', start: '2019-11-05T15:30:00', end: '2019-11-05T16:30:00', resourceId: 'B-LONGTABLE'},
+  { title: 'DBSS HoU Meeting / Misa C.', start: '2019-11-05T15:30:00', end: '2019-11-05T16:30:00', resourceId: 'B-LONGTABLE'}
 ]
 
