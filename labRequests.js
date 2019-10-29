@@ -1,4 +1,5 @@
 var labEvents = [ 
+  { title: 'AXIOMA STOXX WS / Quentin H.', start: '2019-10-31T12:00:00', end: '2019-10-31T19:00:00', resourceId: 'C-MEETROOM' },
   { title: 'CR /StX Department Workshop / Katerina V.', start: '2019-26-11T10:00:00', end: '2019-26-11T12:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'XBID Backlog Refinement / Jiri V.', start: '2019-31-10T10:00:00', end: '2019-31-10T11:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Waste Sorting Training / Bara S.', start: '2020-22-01T10:30:00', end: '2019-22-01T12:00:00',resourceId: 'B-LONGTABLE'},
