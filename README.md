@@ -5,7 +5,7 @@
 
 
 
-# Innovation Lab Booking list
+# Innovation Lab Booking Instructions
 
 Create Your first booking in 8 simple steps:
   1. Login to GitHub with your UserId
