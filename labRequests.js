@@ -1,5 +1,5 @@
 var labEvents = [ 
-  { title: 'TKAM training / Jaroslav N.', start: '2019-11-07T10:00:00', end: '2019-11-07T12:00:00',resourceId: 'C-MEETROOM'}
+  { title: 'TKAM training / Jaroslav N.', start: '2019-11-07T10:00:00', end: '2019-11-07T12:00:00',resourceId: 'C-MEETROOM'},
   { title: 'KAM+TKAM Meeting / Petra B.', start: '2019-11-28T09:00:00', end: '2019-11-28T10:30:00',resourceId: 'B-LONGTABLE'},
   { title: 'Workshop / Kristina J.', start: '2019-11-06T10:30:00', end: '2019-11-06T14:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Quarterly Media Checkup / Petr A.', start: '2019-11-01T15:00:00', end: '2019-11-01T15:30:00',resourceId: 'C-MEETROOM'},
