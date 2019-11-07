@@ -329,6 +329,18 @@ var labEvents = [
   { title: 'Welcome Day / Tom W.', start: '2020-09-01T12:00:00', end: '2020-09-01T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-10-01T12:00:00', end: '2020-10-01T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-11-02T12:00:00', end: '2020-11-02T16:00:00', resourceId: 'B-LONGTABLE'},
-  { title: 'Welcome Day / Tom W.', start: '2020-12-01T12:00:00', end: '2020-12-01T16:00:00', resourceId: 'B-LONGTABLE'}
+  { title: 'Welcome Day / Tom W.', start: '2020-12-01T12:00:00', end: '2020-12-01T16:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'Blood Donation / Adela K.', start: '2020-03-11T07:30:00', end: '2020-03-11T12:00:00', resourceId: 'A-ROUNDTABLE' },    
+  { title: 'Blood Donation / Adela K.', start: '2020-03-11T07:30:00', end: '2020-03-11T12:00:00', resourceId: 'B-LONGTABLE' },  
+  { title: 'Blood Donation / Adela K.', start: '2020-03-11T07:30:00', end: '2020-03-11T12:00:00', resourceId: 'C-MEETROOM' }, 
+  { title: 'Blood Donation / Adela K.', start: '2020-04-07T07:30:00', end: '2020-04-07T12:00:00', resourceId: 'A-ROUNDTABLE' },    
+  { title: 'Blood Donation / Adela K.', start: '2020-04-07T07:30:00', end: '2020-04-07T12:00:00', resourceId: 'B-LONGTABLE' },  
+  { title: 'Blood Donation / Adela K.', start: '2020-04-07T07:30:00', end: '2020-04-07T12:00:00', resourceId: 'C-MEETROOM' }, 
+  { title: 'Blood Donation / Adela K.', start: '2020-09-23T07:30:00', end: '2020-09-23T12:00:00', resourceId: 'A-ROUNDTABLE' },    
+  { title: 'Blood Donation / Adela K.', start: '2020-09-23T07:30:00', end: '2020-09-23T12:00:00', resourceId: 'B-LONGTABLE' },  
+  { title: 'Blood Donation / Adela K.', start: '2020-09-23T07:30:00', end: '2020-09-23T12:00:00', resourceId: 'C-MEETROOM' }, 
+  { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'A-ROUNDTABLE' },    
+  { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'B-LONGTABLE' },  
+  { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'C-MEETROOM' }
 ]
 
