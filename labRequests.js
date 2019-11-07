@@ -3,7 +3,6 @@ var labEvents = [
   { title: 'KAM+TKAM Meeting / Petra B.', start: '2019-11-28T09:00:00', end: '2019-11-28T10:30:00',resourceId: 'B-LONGTABLE'},
   { title: 'Workshop / Kristina J.', start: '2019-11-06T10:30:00', end: '2019-11-06T14:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Quarterly Media Checkup / Petr A.', start: '2019-11-01T15:00:00', end: '2019-11-01T15:30:00',resourceId: 'C-MEETROOM'},
-  { title: 'CR+StX Dept. Workshop / Katka V.', start: '2019-11-26T10:00:00', end: '2019-11-26T12:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'XBID Backlog Refinement / Jiri V.', start: '2019-10-31T10:00:00', end: '2019-10-31T11:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Waste Sorting Training / Bara S.', start: '2020-01-22T12:30:00', end: '2019-01-22T17:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'Waste Sorting Training / Bara S.', start: '2020-02-12T12:30:00', end: '2019-02-12T17:00:00',resourceId: 'B-LONGTABLE'},
