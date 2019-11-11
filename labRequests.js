@@ -319,6 +319,7 @@ var labEvents = [
   { title: 'DBSS HoU Meeting / Misa C.', start: '2019-11-05T15:30:00', end: '2019-11-05T16:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'Newcomers / Huyen', start: '2019-11-05T09:30:00', end: '2019-11-05T11:30:00', resourceId: 'C-MEETROOM'},
   { title: 'AXIOMA STOXX WS / Quentin H.', start: '2019-10-31T12:00:00', end: '2019-10-31T19:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Auction Refinement / Pavol L.', start: '2019-11-11T14:00:00', end: '2019-11-11T15:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Welcome Day / Tom W.', start: '2020-02-03T12:00:00', end: '2020-02-03T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-03-02T12:00:00', end: '2020-03-02T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-04-01T12:00:00', end: '2020-04-01T16:00:00', resourceId: 'B-LONGTABLE'},
