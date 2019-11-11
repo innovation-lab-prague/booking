@@ -1,4 +1,6 @@
 var labEvents = [ 
+  { title: 'Clearing Ops training / Jana B.', start: '2019-11-14T10:00:00', end: '2019-11-14T12:00:00',resourceId: 'C-MEETROOM'},
+  { title: 'Clearing Ops training / Jana B..', start: '2019-11-14T13:00:00', end: '2019-11-14T15:00:00',resourceId: 'C-MEETROOM'},
   { title: 'TKAM training / Jaroslav N.', start: '2019-11-07T10:00:00', end: '2019-11-07T12:00:00',resourceId: 'C-MEETROOM'},
   { title: 'KAM+TKAM Meeting / Petra B.', start: '2019-11-28T09:00:00', end: '2019-11-28T10:30:00',resourceId: 'B-LONGTABLE'},
   { title: 'Workshop / Kristina J.', start: '2019-11-06T10:30:00', end: '2019-11-06T14:00:00',resourceId: 'C-MEETROOM'},
