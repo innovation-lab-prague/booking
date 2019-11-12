@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'XBID Backlog Refinement / Jiri V.', start: '2019-11-13T10:00:00', end: '2019-11-30T11:15:00',resourceId: 'B-LONGTABLE'},
   { title: 'Clearing Ops training / Jana B.', start: '2019-11-14T10:00:00', end: '2019-11-14T12:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Clearing Ops training / Jana B..', start: '2019-11-14T13:00:00', end: '2019-11-14T15:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Section catch up / Jaroslav N.', start: '2019-11-27T14:00:00', end: '2019-11-27T16:00:00',resourceId: 'C-MEETROOM'},
