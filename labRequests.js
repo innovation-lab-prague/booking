@@ -1,5 +1,4 @@
 var labEvents = [
-  { title: 'DBAG/EPEX Steering Committee', start: '2019-11-13T11:15:00', end: '2019-11-19T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'XBID Backlog Refinement / Jiri V.', start: '2019-11-13T10:00:00', end: '2019-11-13T11:15:00',resourceId: 'B-LONGTABLE'},
   { title: 'Shared Services Event / Lucie S.', start: '2019-12-17T16:00:00', end: '2019-12-17T23:00:00',resourceId: 'A-ROUNDTABLE'},
   { title: 'Clearing Ops training / Jana B.', start: '2019-11-14T10:00:00', end: '2019-11-14T12:00:00',resourceId: 'C-MEETROOM'},
