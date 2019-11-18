@@ -311,6 +311,7 @@ var labEvents = [
   { title: 'Welcome Day / Tom W.', start: '2019-10-01T12:00:00', end: '2019-10-01T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-10-03T16:00:00', end: '2019-10-03T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-10-17T16:00:00', end: '2019-10-17T17:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'HR Workshop with Adriana / Tom W.', start: '2019-10-25T09:30:00', end: '2019-10-25T12:00:00', resourceId: 'C-MEETROOM'},
   { title: 'Bulls and Bears Public Speaking / Dirk K.', start: '2019-10-31T16:00:00', end: '2019-10-31T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Welcome Day / Tom W.', start: '2019-11-01T12:00:00', end: '2019-11-01T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'PRISMA RDS - Retrospective, Planning / Rosion V. D.', start: '2019-11-13T10:30:00', end: '2019-11-13T11:30:00', resourceId: 'C-MEETROOM' },
