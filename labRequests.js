@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'XBID Demonstration for Pen. Tests / Jakub M.', start: '2019-11-26T10:00:00', end: '2019-11-26T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'HR Meeting / Adela K.', start: '2019-11-21T10:00:00', end: '2019-11-21T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Agile COP  / Ondrej V.', start: '2019-11-20T14:00:00', end: '2019-11-20T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Cloud Conference Hashicorp Workshop for Practitioners / Melinda R.', start: '2019-12-12T09:00:00', end: '2019-12-12T16:00:00', resourceId: 'C-MEETROOM' },
