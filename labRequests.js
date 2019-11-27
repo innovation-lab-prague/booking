@@ -363,6 +363,6 @@ var labEvents = [
   { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'RPA meeting / Tomas B.', start: '2019-11-26T14:00:00', end: '2019-11-26T15:00:00', resourceId: 'C-MEETROOM' },
-  { id: 001, title: 'HR Morning meeting / Tomas W.', start: '2019-11-28T08:30:00', end: '2019-11-28T10:30:00', daysOfWeek: ['4'], resourceId: 'C-MEETROOM' }
+  { id: 001, title: 'HR Morning meeting / Tomas W.', start: '2019-11-28T08:30:00', end: '2019-11-28T10:30:00', dow: [4], resourceId: 'C-MEETROOM' }
 ]
 
