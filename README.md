@@ -35,13 +35,14 @@ After commit, the pull request is automatically raised. When approved by authori
 
 ## Options
 
-### Repeating Events
-add parameter: ```id``` and set the same id values for event. Please be aware, that repeating meetings are accepted in exceptional cases only. In case of such request, please notify Area Owner.
+### Recurring Events
+add parameter: ```dow``` and specify recuring day of event within week. 0 - Sunday, 1 - Monday, 2... 6 - Saturday. Do not add date in ```start``` or ```end``` parameters. 
+
+Please be aware, that repeating meetings are accepted in exceptional cases only. In case of such request, please notify Area Owner.
 
 Example:
 ```
-  { id: 999, resourceId: 'A-ROUNDTABLE', title: 'Repeating Event / Stan.', start: '2018-06-09T16:00:00' },
-  { id: 999, resourceId: 'A-ROUNDTABLE', title: 'Repeating Event / Stan.', start: '2018-06-16T16:00:00' },
+  { title: 'Repeating Event / Stan.', dow: [ 1 ], start: '10:00:00', end: '10:30:00', resourceId: 'A-ROUNDTABLE',},
 ``` 
 
 ### All Day Event
