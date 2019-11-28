@@ -5,7 +5,6 @@ var labEvents = [
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-02-06T16:00:00', end: '2020-02-06T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-01-23T16:00:00', end: '2020-01-23T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-01-09T16:00:00', end: '2020-01-09T17:00:00', resourceId: 'C-MEETROOM' },
-  { title: 'Corporate visit / Jaroslav N.', start: '2019-11-28T09:00:00', end: '2019-11-28T18:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Trading System Analytics / Pavel S.', start: '2019-12-05T14:00:00', end: '2019-12-05T16:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'XBID Demonstration for Pen. Tests / Jakub M.', start: '2019-11-26T10:00:00', end: '2019-11-26T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'HR Meeting / Adela K.', start: '2019-11-21T10:00:00', end: '2019-11-21T12:00:00', resourceId: 'C-MEETROOM' },
