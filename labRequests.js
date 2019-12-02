@@ -1,6 +1,6 @@
 var labEvents = [
-  { title: 'December newhires / Jaroslav N.', start: '2019-12-04T9:30:00:00', end: '2019-11-27T12:30:00:00',resourceId: 'C-MEETROOM'}
-  { title: 'December newhires / Jaroslav N.', start: '2019-12-03T9:30:00:00', end: '2019-11-27T12:30:00:00',resourceId: 'C-MEETROOM'}
+  { title: 'December newhires / Jaroslav N.', start: '2019-12-04T9:30:00:00', end: '2019-11-27T12:30:00:00',resourceId: 'C-MEETROOM'},
+  { title: 'December newhires / Jaroslav N.', start: '2019-12-03T9:30:00:00', end: '2019-11-27T12:30:00:00',resourceId: 'C-MEETROOM'},
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-03-19T16:00:00', end: '2020-03-19T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-03-05T16:00:00', end: '2020-03-05T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-02-20T16:00:00', end: '2020-02-20T17:00:00', resourceId: 'C-MEETROOM' },
