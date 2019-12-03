@@ -1,5 +1,8 @@
 var labEvents = [
   { title: 'M7T Agile COP  / Ondrej V.', start: '2019-12-04T14:00:00', end: '2019-12-04T15:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Asset Inventory Check / Ondrej H.', start: '2019-12-04T12:00:00', end: '2019-12-04T14:00:00', resourceId: 'A-ROUNDTABLE' },
+  { title: 'Asset Inventory Check / Ondrej H.', start: '2019-12-04T12:00:00', end: '2019-12-04T14:00:00', resourceId: 'A-LONGTABLE' },
+  { title: 'Asset Inventory Check / Ondrej H.', start: '2019-12-04T12:00:00', end: '2019-12-04T14:00:00', resourceId: 'C-MEETROOM' },
   { title: 'AWS reInvent 2019 Keynote Videostream / Stan S.', start: '2019-12-03T17:00:00', end: '2019-12-03T20:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'December newhires / Jaroslav N.', start: '2019-12-04T9:30:00:00', end: '2019-11-27T12:30:00:00',resourceId: 'C-MEETROOM'},
   { title: 'December newhires / Jaroslav N.', start: '2019-12-03T9:30:00:00', end: '2019-11-27T12:30:00:00',resourceId: 'C-MEETROOM'},
