@@ -351,6 +351,7 @@ var labEvents = [
   { title: 'Risk Culture Workshop / Martina B.', start: '2019-11-27T11:00:00', end: '2019-11-27T12:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'IFS IT Section Meeting / Christian P.', start: '2019-11-28T14:00:00', end: '2019-11-28T15:30:00', resourceId: 'B-LONGTABLE'},
   { title: 'M7A Architecture / Pavol L.', start: '2019-12-04T12:00:00', end: '2019-12-04T16:00:00', resourceId: 'C-MEETROOM' }, 
+  { title: 'Windows Sync Meeting / Vojtech F.', start: '2019-12-04T09:30:00', end: '2019-12-04T12:00:00', resourceId: 'A-ROUNDTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-02-03T12:00:00', end: '2020-02-03T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-03-02T12:00:00', end: '2020-03-02T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-04-01T12:00:00', end: '2020-04-01T16:00:00', resourceId: 'B-LONGTABLE'},
