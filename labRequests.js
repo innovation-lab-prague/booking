@@ -1,5 +1,5 @@
 var labEvents = [
-  { title: 'Training - newcomers  / Jana B..', start: '2019-12-06T09:00:00', end: '2019-12-06T12:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Training - newcomers  / Jana B.', start: '2019-12-06T09:00:00', end: '2019-12-06T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'zOS Meeting  / Stan S.', start: '2019-12-03T10:00:00', end: '2019-12-03T10:30:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Agile COP  / Ondrej V.', start: '2019-12-04T14:00:00', end: '2019-12-04T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Asset Inventory Check / Ondrej H.', start: '2019-12-04T12:00:00', end: '2019-12-04T14:00:00', resourceId: 'A-ROUNDTABLE' },
@@ -381,7 +381,7 @@ var labEvents = [
   { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'RPA meeting / Tomas B.', start: '2019-11-26T14:00:00', end: '2019-11-26T15:00:00', resourceId: 'C-MEETROOM' },
-  { title: 'HR Morning meeting / Tomas W.', start: '2019-12-10T08:30:00', end: '2019-12-10T10:30:00', resourceId: 'C-MEETROOM' },
+  { title: 'HR Morning meeting / Tomas W.', start: '2019-12-10T09:00:00', end: '2019-12-10T11:00:00', resourceId: 'C-MEETROOM' },
   { id: 001, title: 'HR Morning meeting / Tomas W.', start: '2019-12-19T08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }
 ]
 
