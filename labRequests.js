@@ -356,7 +356,9 @@ var labEvents = [
   { title: 'M7A Architecture IIb / Pavol L.', start: '2019-12-05T12:00:00', end: '2019-12-05T16:00:00', resourceId: 'C-MEETROOM' }, 
   { title: 'M7A Architecture IIa/ Pavol L.', start: '2019-12-05T08:00:00', end: '2019-12-05T11:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'M7A Architecture III / Pavol L.', start: '2019-12-06T09:00:00', end: '2019-12-06T16:00:00', resourceId: 'C-MEETROOM' },
-   { title: 'M7A Architecture IV / Pavol L.', start: '2019-12-09T09:00:00', end: '2019-12-09T16:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'M7A Architecture IV / Pavol L.', start: '2019-12-09T09:00:00', end: '2019-12-09T16:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'M7A Architecture Vb / Pavol L.', start: '2019-12-10T11:00:00', end: '2019-12-10T16:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'M7A Architecture Va/ Pavol L.', start: '2019-12-10T09:40:00', end: '2019-12-10T11:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Welcome Day / Tom W.', start: '2020-02-03T12:00:00', end: '2020-02-03T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-03-02T12:00:00', end: '2020-03-02T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-04-01T12:00:00', end: '2020-04-01T16:00:00', resourceId: 'B-LONGTABLE'},
@@ -382,6 +384,6 @@ var labEvents = [
   { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'RPA meeting / Tomas B.', start: '2019-11-26T14:00:00', end: '2019-11-26T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'HR Morning meeting / Tomas W.', start: '2019-12-10T09:00:00', end: '2019-12-10T11:00:00', resourceId: 'C-MEETROOM' },
-  { id: 001, title: 'HR Morning meeting / Tomas W.', start: '2019-12-19T08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }
+  { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }
 ]
 
