@@ -359,6 +359,7 @@ var labEvents = [
   { title: 'M7A Architecture IV / Pavol L.', start: '2019-12-09T09:00:00', end: '2019-12-09T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7A Architecture Vb / Pavol L.', start: '2019-12-10T11:00:00', end: '2019-12-10T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7A Architecture Va/ Pavol L.', start: '2019-12-10T09:40:00', end: '2019-12-10T11:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'RRH Meeting / Frantisek H.', start: '2019-12-18T09:45:00', end: '2019-12-18T11:15:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-02-03T12:00:00', end: '2020-02-03T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-03-02T12:00:00', end: '2020-03-02T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-04-01T12:00:00', end: '2020-04-01T16:00:00', resourceId: 'B-LONGTABLE'},
