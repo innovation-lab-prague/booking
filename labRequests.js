@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'SOC/CERT OTRS training / Josef S.', start: '2019-12-17T13:00:00', end: '2019-12-17T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Training - newcomers  / Jana B.', start: '2019-12-06T09:00:00', end: '2019-12-06T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'zOS Meeting  / Stan S.', start: '2019-12-03T10:00:00', end: '2019-12-03T10:30:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T Agile COP  / Ondrej V.', start: '2019-12-04T14:00:00', end: '2019-12-04T15:00:00', resourceId: 'C-MEETROOM' },
