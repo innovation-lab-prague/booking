@@ -8,6 +8,7 @@ var labEvents = [
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-01-09T16:00:00', end: '2020-01-09T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Waste Sorting Training / Bara S.', start: '2020-01-22T12:30:00', end: '2020-01-22T17:00:00',resourceId: 'B-LONGTABLE'},
   { title: 'Waste Sorting Training / Bara S.', start: '2020-02-12T12:30:00', end: '2020-02-12T17:00:00',resourceId: 'B-LONGTABLE'},
+  { title: 'RRH Workshop / Frantisek H.', start: '2020-01-13T12:45:00', end: '2020-01-13T17:30:00', resourceId: 'C-MEETROOM' },
   { title: 'Welcome Day / Tom W.', start: '2020-02-03T12:00:00', end: '2020-02-03T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-03-02T12:00:00', end: '2020-03-02T16:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Welcome Day / Tom W.', start: '2020-04-01T12:00:00', end: '2020-04-01T16:00:00', resourceId: 'B-LONGTABLE'},
