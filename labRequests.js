@@ -32,6 +32,7 @@ var labEvents = [
   { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'B-LONGTABLE' },  
   { title: 'Blood Donation / Adela K.', start: '2020-10-21T07:30:00', end: '2020-10-21T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'X-MEN Retro / Pavol L.', start: '2020-01-07T10:00:00', end: '2020-01-07T10:45:00', resourceId: 'A-ROUNDTABLE' },
+  { title: 'Wanderers Refinement / Pavol L.', start: '2020-01-07T14:00:00', end: '2020-01-07T15:00:00', resourceId: 'C-MEETROOM' },
   { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }  
 ]
 
