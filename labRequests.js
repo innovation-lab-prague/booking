@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Global TKAM meeting / Michael J.', start: '2020-01-16T15:00:00', end: '2020-01-16T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Service Delivery meeting / Jaroslav N.', start: '2020-01-08T14:00:00', end: '2020-01-08T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'HR Meeting / Mia M.', start: '2020-01-14T09:00:00', end: '2020-01-14T13:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-03-19T16:00:00', end: '2020-03-19T17:00:00', resourceId: 'C-MEETROOM' },
