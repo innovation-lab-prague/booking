@@ -1,5 +1,9 @@
 var labEvents = [
-  { title: 'Service Delivery meeting / Jaroslav N.', start: '2020-01-08T14:00:00', end: '2020-01-08T16:00:00', resourceId: 'C-MEETROOM'
+  { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'A-ROUNDTABLE' },
+  { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Global TKAM meeting / Michael J.', start: '2020-01-16T15:00:00', end: '2020-01-16T17:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Service Delivery meeting / Jaroslav N.', start: '2020-01-08T14:00:00', end: '2020-01-08T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'HR Meeting / Mia M.', start: '2020-01-14T09:00:00', end: '2020-01-14T13:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-03-19T16:00:00', end: '2020-03-19T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Bulls and Bears Public Speaking / David M.', start: '2020-03-05T16:00:00', end: '2020-03-05T17:00:00', resourceId: 'C-MEETROOM' },
@@ -36,6 +40,10 @@ var labEvents = [
   { title: 'X-MEN Retro / Pavol L.', start: '2020-01-07T10:00:00', end: '2020-01-07T10:45:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'Times Up / Lucie S.', start: '2020-01-07T17:30:00', end: '2020-01-07T21:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'Wanderers Refinement / Pavol L.', start: '2020-01-07T14:00:00', end: '2020-01-07T15:00:00', resourceId: 'C-MEETROOM' },
-  { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }  
+  { title: 'Coffee Corner/allo IT stuff Prague Office / Misa C.', start: '2020-01-16T10:30:00', end: '2020-01-16T13:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Get Together / Mina', start: '2020-01-13T14:00:00', end: '2020-01-13T15:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'IT DPT Workshop / Katerina V.', start: '2020-02-18T15:00:00', end: '2020-02-18T16:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'IT DPT Workshop / Katerina V.', start: '2020-02-19T11:00:00', end: '2020-02-19T12:30:00', resourceId: 'B-LONGTABLE' },
+  { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }
 ]
 
