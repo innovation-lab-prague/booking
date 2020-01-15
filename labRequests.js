@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Compliance gathering / Eliska F.', start: '2020-01-27T12:00:00', end: '2020-01-27T14:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'C-MEETROOM' },
