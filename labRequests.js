@@ -1,5 +1,5 @@
 var labEvents = [
-  { title: 'CERT+SOC Workshop / Josef S.', start: '2020-02-04T09:00:00', end: '2020-02-09T18:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'CERT+SOC Workshop / Josef S.', start: '2020-02-04T09:00:00', end: '2020-02-04T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Compliance gathering / Eliska F.', start: '2020-01-27T12:00:00', end: '2020-01-27T14:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'B-LONGTABLE' },
@@ -50,4 +50,3 @@ var labEvents = [
   { title: 'Wanderers Ansible Refinement / Pavol L.', start: '2020-01-15T14:00:00', end: '2020-01-15T15:00:00', resourceId: 'C-MEETROOM' },
   { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }
 ]
-
