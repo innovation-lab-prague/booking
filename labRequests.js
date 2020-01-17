@@ -50,4 +50,3 @@ var labEvents = [
   { title: 'Wanderers Ansible Refinement / Pavol L.', start: '2020-01-15T14:00:00', end: '2020-01-15T15:00:00', resourceId: 'C-MEETROOM' },
   { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }
 ]
-
