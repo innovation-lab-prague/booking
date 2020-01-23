@@ -57,5 +57,6 @@ var labEvents = [
   { title: 'OTRS Meeting Day 1 / Stan..', start: '2020-01-28T09:00:00', end: '2020-01-28T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'OTRS Meeting Day 2 / Stan..', start: '2020-01-29T09:00:00', end: '2020-01-29T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Risk IT Meeting / Adriana M.', start: '2020-01-24T10:00:00', end: '2020-01-24T11:00:00', resourceId: 'C-MEETROOM' },
-  { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' }
+  { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' },
+  { title: 'Index Setup Automation Roadmap and Planning / Jan D.', start: '2020-01-30T09:30:00', end: '2020-01-30T11:30:00', resourceId: 'B-LONGTABLE' }
 ]
