@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'MISP Workshop / Josef S.', start: '2020-02-27T10:00:00', end: '2020-02-27T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Risk IT Meeting / Adriana M.', start: '2020-01-24T10:00:00', end: '2020-01-24T11:00:00', resourceId: 'C-MEETROOM' },
   { title: 'M7T OPS team setup / Ondrej V.', start: '2020-01-27T09:30:00', end: '2020-01-27T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'CERT+SOC Workshop / Josef S.', start: '2020-02-04T09:00:00', end: '2020-02-04T18:00:00', resourceId: 'B-LONGTABLE' },
