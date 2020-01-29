@@ -1,7 +1,6 @@
 var labEvents = [
   { title: 'MISP Workshop / Josef S.', start: '2020-02-27T10:00:00', end: '2020-02-27T12:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'M7T OPS team setup / Ondrej V.', start: '2020-01-27T09:30:00', end: '2020-01-27T11:30:00', resourceId: 'C-MEETROOM' },
-  { title: 'CERT+SOC Workshop / Josef S.', start: '2020-02-11T09:00:00', end: '2020-02-11T18:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Compliance gathering / Eliska F.', start: '2020-01-28T12:00:00', end: '2020-01-28T14:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'FM Blocker / Ondrej H.', start: '2020-01-21T09:00:00', end: '2020-01-21T12:00:00', resourceId: 'B-LONGTABLE' },
