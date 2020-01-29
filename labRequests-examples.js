@@ -47,5 +47,11 @@ var labEvents = [
     title: 'Click to visit Google',
     url: 'http://google.com/',
     start: '2018-06-28'
+  },
+  {
+    title: 'ada fellowship info-session / Adela P. & Kristyna G.',
+    start: '2020-02-05T09:30:00',
+    end: '2020-02-05T11:00:00',
+    resourceId: 'B-LONGTABLE'
   }
 ]
