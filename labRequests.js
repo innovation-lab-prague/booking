@@ -68,4 +68,6 @@ var labEvents = [
   { id: 001, title: 'HR Morning meeting / Tomas W.', start: '08:30:00', end: '10:30:00', dow: [ 4 ], resourceId: 'C-MEETROOM' },
   { title: 'Index Setup Automation Roadmap and Planning / Jan D.', start: '2020-01-30T09:30:00', end: '2020-01-30T11:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Times Up / Lucie S.', start: '2020-01-30T17:30:00', end: '2020-01-30T21:00:00', resourceId: 'A-ROUNDTABLE' },
+  { title: 'Application Operations Workshop D1 / Michal P.', start: '2020-03-09T13:00:00', end: '2020-03-09T17:30:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Application Operations Workshop D2 / Michal P.', start: '2020-03-10T09:00:00', end: '2020-03-10T17:30:00', resourceId: 'B-LONGTABLE' },
 ]
