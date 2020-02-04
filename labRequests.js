@@ -1,5 +1,6 @@
 var labEvents = [
   { title: 'MISP Workshop / Josef S.', start: '2020-02-10T09:00:00', end: '2020-02-10T18:00:00', resourceId: 'C-MEETROOM' },
+  { title: 'Mag7 retrospective / Ondrej V.', start: '2020-02-04T15:00:00', end: '2020-02-04T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Agile CoP / Ondrej V.', start: '2020-02-12T14:00:00', end: '2020-02-12T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'EPEX Call / Blanka M.', start: '2020-01-30T14:00:00', end: '2020-01-30T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'ada fellowship info-session / Adela P. & Kristyna G.', start: '2020-02-05T09:30:00', end: '2020-02-05T11:00:00', resourceId: 'B-LONGTABLE' },
