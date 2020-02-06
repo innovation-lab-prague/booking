@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Risk IT / MM workshop / Juho M.', start: '2020-02-19T14:00:00', end: '2020-02-19T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Energy Meeting / Pavel P.', start: '2020-02-13T13:00:00', end: '2020-02-13T14:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'MISP Workshop / Josef S.', start: '2020-02-10T09:00:00', end: '2020-02-10T18:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Mag7 retrospective / Ondrej V.', start: '2020-02-04T15:00:00', end: '2020-02-04T16:00:00', resourceId: 'C-MEETROOM' },
