@@ -1,4 +1,7 @@
 var labEvents = [
+  { title: 'Risk IT townhall',  start: '2020-03-25T09:30:00',  end : '2020-03-25T11:30:00',  resourceId: 'B-LONGTABLE'},
+  { title: 'Risk IT townhall',  start: '2020-04-08T09:30:00',  end : '2020-04-08T11:30:00',  resourceId: 'B-LONGTABLE'},
+  { title: 'Risk IT townhall',  start: '2020-04-08T14:00:00',  end : '2020-04-08T16:00:00',  resourceId: 'B-LONGTABLE'},
   { title: 'Risk IT / MM workshop / Juho M.', start: '2020-02-19T14:00:00', end: '2020-02-19T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Energy Meeting / Pavel P.', start: '2020-02-13T13:00:00', end: '2020-02-13T14:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'MISP Workshop / Josef S.', start: '2020-02-10T09:00:00', end: '2020-02-10T18:00:00', resourceId: 'C-MEETROOM' },
