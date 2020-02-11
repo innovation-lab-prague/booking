@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Training TKAM / Jaroslav N.', start: '2020-02-19T09:30:00', end: '2020-02-19T13:00:00', resourceId: 'C-MEETROOM' }
   { title: 'Risk IT townhall',  start: '2020-03-25T09:30:00',  end : '2020-03-25T11:30:00',  resourceId: 'B-LONGTABLE'},
   { title: 'Risk IT townhall',  start: '2020-04-08T09:30:00',  end : '2020-04-08T11:30:00',  resourceId: 'B-LONGTABLE'},
   { title: 'Risk IT townhall',  start: '2020-04-08T14:00:00',  end : '2020-04-08T16:00:00',  resourceId: 'B-LONGTABLE'},
