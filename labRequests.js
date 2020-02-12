@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'New Member Section / Jana B.', start: '2020-02-12T09:30:00', end: '2020-02-12T11:30:00', resourceId: 'C-MEETROOM' },
   { title: 'M7C Workshop / Ondrej V.', start: '2020-03-16T13:00:00', end: '2020-03-16T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Training TKAM / Jaroslav N.', start: '2020-02-19T09:30:00', end: '2020-02-19T13:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Risk IT townhall',  start: '2020-03-25T09:30:00',  end : '2020-03-25T11:30:00',  resourceId: 'B-LONGTABLE'},
