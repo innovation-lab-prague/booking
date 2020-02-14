@@ -86,4 +86,7 @@ var labEvents = [
   { title: 'Application Operations Workshop D2 / Michal P.', start: '2020-03-10T09:00:00', end: '2020-03-10T17:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Sync/Maria', start: '2020-02-07T10:00:00', end: '2020-02-07T10:30:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'LabQuiz / Lucie S.', start: '2020-02-17T17:00:00', end: '2020-02-17T21:30:00', resourceId: 'B-LONGTABLE' },
+  { title: 'Sync/Maria', start: '2020-02-07T10:00:00', end: '2020-02-07T10:30:00', resourceId: 'A-ROUNDTABLE'},
+  { title: 'A2A Energy Project Kick-off', start: '2020-02-25T09:00:00', end: '2020-02-25T17:00:00', resourceId: 'A-ROUNDTABLE'},
+  { title: 'A2A Energy Project Kick-off', start: '2020-02-25T09:00:00', end: '2020-02-25T17:00:00', resourceId: 'B-LONGTABLE'}
 ]
