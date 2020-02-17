@@ -73,6 +73,7 @@ var labEvents = [
   { title: 'Wanderers Refinement / Pavol L.', start: '2020-01-07T14:00:00', end: '2020-01-07T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Coffee Corner/allo IT stuff Prague Office / Misa C.', start: '2020-01-16T10:30:00', end: '2020-01-16T13:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'Team Meeting / Mina B.', start: '2020-01-13T14:00:00', end: '2020-01-13T15:00:00', resourceId: 'B-LONGTABLE' },
+  { title: 'HR Morning Meeting / Tomas W.', start: '2020-02-18T09:00:00', end: '2020-02-18T11:00:00', resourceId: 'C-MEETROOM' },
   { title: 'IT DPT Workshop / Katerina V.', start: '2020-03-04T15:30:00', end: '2020-03-04T17:00:00', resourceId: 'B-LONGTABLE' },
   { title: 'IT DPT Workshop / Katerina V.', start: '2020-03-05T13:00:00', end: '2020-03-05T14:30:00', resourceId: 'B-LONGTABLE' },
   { title: 'Cloud - CCI Meet / Stan.', start: '2020-01-15T13:00:00', end: '2020-01-15T13:30:00', resourceId: 'C-MEETROOM' },
