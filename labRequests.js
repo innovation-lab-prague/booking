@@ -90,5 +90,6 @@ var labEvents = [
   { title: 'Sync/Maria', start: '2020-02-07T10:00:00', end: '2020-02-07T10:30:00', resourceId: 'A-ROUNDTABLE'},
   { title: 'IFS IT Section Meeting', start: '2020-02-21T10:30:00', end: '2020-02-21T11:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'A2A Energy Project Kick-off', start: '2020-02-25T09:00:00', end: '2020-02-25T17:00:00', resourceId: 'A-ROUNDTABLE'},
-  { title: 'A2A Energy Project Kick-off', start: '2020-02-25T09:00:00', end: '2020-02-25T17:00:00', resourceId: 'B-LONGTABLE'}
+  { title: 'A2A Energy Project Kick-off', start: '2020-02-25T09:00:00', end: '2020-02-25T17:00:00', resourceId: 'B-LONGTABLE'},
+  { title: 'VC Meeting / Michal F.', start: '2020-02-20T14:00:00', end: '2020-02-20T14:30:00', resourceId: 'C-MEETROOM'}
 ]
