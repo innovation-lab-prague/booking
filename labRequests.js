@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Targets 2020 / Jana B.', start: '2020-03-13T09:00:00', end: '2020-03-13T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Market Supervision/TKAM Workshop / Jan F.', start: '2020-02-26T09:00:00', end: '2020-02-26T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Market Supervision/TKAM Workshop / Jan F.', start: '2020-02-25T09:00:00', end: '2020-02-25T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Market Supervision/TKAM Workshop / Jan F.', start: '2020-02-24T14:00:00', end: '2020-02-24T17:00:00', resourceId: 'C-MEETROOM' },
