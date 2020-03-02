@@ -1,8 +1,8 @@
 var labEvents = [
+  { title: 'Targets 2020 / Jana B.', start: '2020-03-13T09:00:00', end: '2020-03-13T12:00:00', resourceId: 'C-MEETROOM' },
   { title: 'XBID Team Workshop',  start: '2020-03-04T14:30:00',  end : '2020-03-04T15:30:00',  resourceId: 'C-MEETROOM'},
   { title: 'CERT Training / Riccardo S.',  start: '2020-03-12T09:00:00',  end : '2020-03-12T17:30:00',  resourceId: 'B-LONGTABLE'},
   { title: 'CERT Training / Riccardo S.',  start: '2020-03-13T09:00:00',  end : '2020-03-13T17:30:00',  resourceId: 'B-LONGTABLE'},
-  { title: 'Targets / Jana B.', start: '2020-03-11T13:00:00', end: '2020-03-11T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Market Supervision/TKAM Workshop / Jan F.', start: '2020-02-26T09:00:00', end: '2020-02-26T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Market Supervision/TKAM Workshop / Jan F.', start: '2020-02-25T09:00:00', end: '2020-02-25T17:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Market Supervision/TKAM Workshop / Jan F.', start: '2020-02-24T14:00:00', end: '2020-02-24T17:00:00', resourceId: 'C-MEETROOM' },
