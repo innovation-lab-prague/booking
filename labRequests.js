@@ -96,6 +96,7 @@ var labEvents = [
   { title: 'A2A Energy Project Kick-off', start: '2020-02-25T09:00:00', end: '2020-02-25T17:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Cash PND to StatistiX Migration Project Kick-off', start: '2020-03-24T09:00:00', end: '2020-03-25T17:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'VC Meeting / Michal F.', start: '2020-02-20T14:00:00', end: '2020-02-20T14:30:00', resourceId: 'C-MEETROOM'},
+  { title: 'X-MEN Retro / Pavol L.', start: '2020-03-03T15:00:00', end: '2020-03-03T16:00:00', resourceId: 'C-MEETROOM'},
   { title: 'COP Meeting / Kamila L.', start: '2020-03-30T14:00:00', end: '2020-03-30T15:00:00', resourceId: 'B-LONGTABLE'},
   { title: 'Knowledge share - RRH / Martin S.', start: '2020-03-04T15:00:00', end: '2020-03-04T16:00:00', resourceId: 'C-MEETROOM'}
 ]
