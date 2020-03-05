@@ -1,4 +1,5 @@
 var labEvents = [
+  { title: 'Roundtable with Berthold K. / Kamila L.', start: '2020-03-18T14:00:00', end: '2020-03-18T15:00:00', resourceId: 'A-ROUNDTABLE' },
   { title: 'Meeting / Adela K.', start: '2020-03-09T15:00:00', end: '2020-03-09T16:00:00', resourceId: 'C-MEETROOM' },
   { title: 'XBID Retro / Ondra V.', start: '2020-03-18T13:00:00', end: '2020-03-18T15:00:00', resourceId: 'C-MEETROOM' },
   { title: 'Targets 2020 / Jana B.', start: '2020-03-13T09:00:00', end: '2020-03-13T12:00:00', resourceId: 'C-MEETROOM' },
